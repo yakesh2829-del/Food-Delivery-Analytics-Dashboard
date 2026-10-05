@@ -1,0 +1,7 @@
+packages <- c("shiny","tidyverse","lubridate","plotly","DT","scales")
+user_lib <- Sys.getenv("R_LIBS_USER")
+if (!nzchar(user_lib)) user_lib <- file.path(Sys.getenv("USERPROFILE"), "Documents", "R", "win-library", paste0(R.version$major, ".", strsplit(R.version$minor, "\\.")[[1]][1]))
+if (!dir.exists(user_lib)) dir.create(user_lib, recursive=TRUE, showWarnings=FALSE)
+.libPaths(c(user_lib, .libPaths()))
+for (p in packages) if (!requireNamespace(p, quietly=TRUE)) install.packages(p, lib=user_lib, repos="https://cloud.r-project.org")
+cat("All required packages are installed.\n")

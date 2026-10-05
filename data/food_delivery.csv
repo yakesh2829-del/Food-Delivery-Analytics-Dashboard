@@ -1,0 +1,801 @@
+Order_ID,Order_Date,City,Region,Restaurant,Cuisine,Food_Item,Quantity,Unit_Price,Delivery_Fee,Discount_Pct,Payment_Method,Order_Status,Delivery_Time_Min,Customer_Rating,Food_Amount,Discount_Amount,Revenue,Cost,Profit
+FD10623,2025-01-01,Kochi,East,Pizza Corner,Healthy,Cake,3,555.99,42.05,5.4,Credit Card,Out for Delivery,27,3.9,1667.97,90.07,1619.95,1072.14,547.81
+FD10567,2025-01-01,Kochi,North,Pizza Corner,Desserts,Salad,3,244.48,48.16,27.3,Wallet,Delivered,68,4.6,733.44,200.23,581.37,395.6,185.77
+FD10412,2025-01-01,Coimbatore,West,Pizza Corner,Desserts,Cake,1,441.99,55.68,24.9,Cash on Delivery,Cancelled,70,3.8,441.99,110.06,387.61,284.59,103.02
+FD10499,2025-01-01,Hyderabad,South,Food Street,Chinese,Noodles,3,567.14,65.92,9.4,Debit Card,Delivered,25,3.9,1701.42,159.93,1607.41,1071.6,535.81
+FD10427,2025-01-01,Bengaluru,East,Burger House,Pizza,Fried Rice,2,624.64,60.4,19.6,Cash on Delivery,Delivered,64,2.7,1249.28,244.86,1064.82,611.34,453.48
+FD10753,2025-01-01,Chennai,South,Food Street,Desserts,Parotta,2,173.2,45.79,29.0,Debit Card,Delivered,68,4.1,346.4,100.46,291.73,192.34,99.39
+FD10016,2025-01-01,Coimbatore,South,Burger House,Desserts,Fried Rice,3,209.25,52.68,8.7,Cash on Delivery,Delivered,51,3.6,627.75,54.61,625.82,375.79,250.03
+FD10179,2025-01-02,Hyderabad,East,Food Street,Biryani,Dosa,1,145.76,78.96,2.5,Debit Card,Cancelled,40,3.7,145.76,3.64,221.08,153.67,67.41
+FD10682,2025-01-03,Bengaluru,West,Spice Hub,Biryani,Salad,1,164.95,47.81,14.0,UPI,Delivered,45,3.5,164.95,23.09,189.67,132.92,56.75
+FD10650,2025-01-03,Bengaluru,East,SS Hyderabad Biryani,Desserts,Parotta,3,269.71,42.25,8.8,Cash on Delivery,Cancelled,58,4.1,809.13,71.2,780.18,465.64,314.54
+FD10625,2025-01-03,Kochi,North,Burger House,Biryani,Meals,3,595.77,28.44,10.4,Debit Card,Delivered,27,3.9,1787.31,185.88,1629.87,1137.48,492.39
+FD10563,2025-01-04,Kochi,North,Pizza Corner,South Indian,Noodles,4,324.86,76.22,16.9,Wallet,Delivered,19,3.8,1299.44,219.61,1156.05,673.74,482.31
+FD10061,2025-01-05,Hyderabad,West,Burger House,North Indian,Dosa,3,417.26,71.92,0.3,Cash on Delivery,Delivered,72,4.2,1251.78,3.76,1319.94,1000.32,319.62
+FD10555,2025-01-05,Madurai,East,Domino's,Biryani,Burger,4,276.8,73.49,11.4,UPI,Cancelled,65,3.7,1107.2,126.22,1054.47,765.69,288.78
+FD10400,2025-01-05,Kochi,South,SS Hyderabad Biryani,North Indian,Biryani,1,364.82,48.86,18.7,Debit Card,Delivered,27,5.0,364.82,68.22,345.46,228.0,117.46
+FD10411,2025-01-05,Coimbatore,North,Annapoorna,Healthy,Burger,1,119.71,40.03,20.9,UPI,Delivered,22,3.9,119.71,25.02,134.72,84.35,50.37
+FD10672,2025-01-06,Bengaluru,South,Royal Kitchen,South Indian,Parotta,1,429.79,16.49,14.7,Cash on Delivery,Out for Delivery,28,5.0,429.79,63.18,383.1,237.83,145.27
+FD10127,2025-01-06,Chennai,South,SS Hyderabad Biryani,Biryani,Meals,2,629.38,58.55,13.2,UPI,Delivered,24,5.0,1258.76,166.16,1151.15,669.35,481.8
+FD10211,2025-01-06,Chennai,West,SS Hyderabad Biryani,Chinese,Burger,1,230.7,60.71,14.7,Cash on Delivery,Out for Delivery,20,3.9,230.7,33.91,257.5,175.26,82.24
+FD10274,2025-01-06,Coimbatore,West,Food Street,Chinese,Noodles,2,618.32,69.71,4.2,UPI,Delivered,30,4.2,1236.64,51.94,1254.41,699.6,554.81
+FD10020,2025-01-07,Chennai,South,A2B,Chinese,Cake,4,544.89,44.99,20.1,Debit Card,Out for Delivery,32,3.8,2179.56,438.09,1786.46,1148.3,638.16
+FD10199,2025-01-08,Kochi,South,Annapoorna,Pizza,Noodles,2,217.45,18.04,11.7,Debit Card,Delivered,35,4.2,434.9,50.88,402.06,262.7,139.36
+FD10473,2025-01-08,Kochi,West,Burger House,Biryani,Cake,2,610.77,77.5,26.2,Wallet,Cancelled,56,3.8,1221.54,320.04,979.0,758.78,220.22
+FD10701,2025-01-09,Madurai,East,Pizza Corner,Chinese,Meals,1,429.11,17.24,11.2,Cash on Delivery,Delivered,30,3.9,429.11,48.06,398.29,240.81,157.48
+FD10192,2025-01-09,Madurai,West,Food Street,South Indian,Salad,2,249.51,16.3,6.4,Cash on Delivery,Returned,57,3.9,499.02,31.94,483.38,372.85,110.53
+FD10253,2025-01-09,Madurai,East,A2B,North Indian,Fried Rice,4,587.9,21.29,9.0,UPI,Returned,41,4.4,2351.6,211.64,2161.25,1548.77,612.48
+FD10207,2025-01-10,Kochi,East,Burger House,Fast Food,Fried Rice,1,400.7,22.86,4.3,Cash on Delivery,Delivered,37,3.5,400.7,17.23,406.33,236.88,169.45
+FD10710,2025-01-11,Hyderabad,North,Pizza Corner,Chinese,Cake,1,202.24,19.9,26.3,Debit Card,Returned,19,4.0,202.24,53.19,168.95,117.23,51.72
+FD10048,2025-01-11,Chennai,East,A2B,Fast Food,Parotta,2,541.5,59.0,16.0,Wallet,Delivered,49,4.2,1083.0,173.28,968.72,660.68,308.04
+FD10493,2025-01-11,Hyderabad,South,Royal Kitchen,Healthy,Cake,4,128.63,30.64,21.4,UPI,Delivered,30,5.0,514.52,110.11,435.05,308.83,126.22
+FD10213,2025-01-12,Kochi,West,Annapoorna,Chinese,Salad,4,81.6,71.15,14.0,Debit Card,Delivered,39,4.2,326.4,45.7,351.85,261.31,90.54
+FD10440,2025-01-12,Hyderabad,North,Burger House,Fast Food,Dosa,1,539.97,17.0,27.4,UPI,Out for Delivery,68,5.0,539.97,147.95,409.02,225.68,183.34
+FD10754,2025-01-13,Kochi,North,Pizza Corner,Pizza,Fried Rice,4,557.56,27.25,6.5,Credit Card,Delivered,43,3.1,2230.24,144.97,2112.52,1557.1,555.42
+FD10077,2025-01-13,Chennai,South,Domino's,Healthy,Noodles,3,460.48,16.4,18.3,Debit Card,Returned,42,4.1,1381.44,252.8,1145.04,708.26,436.78
+FD10120,2025-01-13,Hyderabad,North,A2B,Pizza,Noodles,4,143.98,38.57,16.8,UPI,Delivered,47,4.0,575.92,96.75,517.74,316.76,200.98
+FD10381,2025-01-15,Madurai,North,Pizza Corner,Pizza,Fried Rice,1,253.12,17.69,0.0,Wallet,Delivered,65,3.3,253.12,0.0,270.81,210.28,60.53
+FD10503,2025-01-15,Kochi,East,Royal Kitchen,North Indian,Dosa,3,323.88,25.22,2.8,Wallet,Cancelled,33,4.9,971.64,27.21,969.65,669.77,299.88
+FD10301,2025-01-16,Madurai,South,Spice Hub,North Indian,Pizza,4,159.28,21.27,19.0,Wallet,Delivered,18,4.9,637.12,121.05,537.34,386.01,151.33
+FD10747,2025-01-17,Coimbatore,South,SS Hyderabad Biryani,Chinese,Biryani,4,403.09,76.57,29.7,Debit Card,Returned,35,4.1,1612.36,478.87,1210.06,732.45,477.61
+FD10648,2025-01-17,Bengaluru,North,Healthy Bowl,Fast Food,Fried Rice,4,367.4,20.77,20.3,Cash on Delivery,Out for Delivery,61,4.5,1469.6,298.33,1192.04,904.9,287.14
+FD10286,2025-01-17,Hyderabad,South,Pizza Corner,Pizza,Salad,4,337.92,33.35,9.5,Cash on Delivery,Out for Delivery,36,5.0,1351.68,128.41,1256.62,820.67,435.95
+FD10553,2025-01-18,Bengaluru,West,Domino's,Pizza,Salad,3,138.57,68.43,20.9,Credit Card,Delivered,37,4.2,415.71,86.88,397.26,295.54,101.72
+FD10126,2025-01-18,Coimbatore,East,A2B,Biryani,Dosa,2,351.95,26.4,28.7,Credit Card,Returned,24,3.5,703.9,202.02,528.28,300.0,228.28
+FD10271,2025-01-19,Hyderabad,West,Healthy Bowl,Chinese,Pizza,2,632.05,62.64,17.4,Credit Card,Delivered,44,4.7,1264.1,219.95,1106.79,796.48,310.31
+FD10060,2025-01-20,Bengaluru,West,Domino's,South Indian,Burger,1,224.25,46.82,20.3,UPI,Delivered,49,4.6,224.25,45.52,225.55,167.27,58.28
+FD10415,2025-01-21,Kochi,East,Healthy Bowl,Chinese,Meals,4,472.6,75.66,14.6,UPI,Cancelled,30,4.6,1890.4,276.0,1690.06,1179.47,510.59
+FD10703,2025-01-21,Bengaluru,South,Healthy Bowl,Pizza,Noodles,2,195.24,69.47,15.9,Debit Card,Delivered,71,3.6,390.48,62.09,397.86,297.78,100.08
+FD10483,2025-01-22,Madurai,East,Royal Kitchen,Pizza,Fried Rice,4,273.25,25.18,18.7,UPI,Delivered,32,3.4,1093.0,204.39,913.79,576.54,337.25
+FD10307,2025-01-22,Chennai,North,Food Street,Chinese,Burger,4,187.74,75.47,4.3,Debit Card,Delivered,57,3.5,750.96,32.29,794.14,514.93,279.21
+FD10071,2025-01-22,Chennai,East,SS Hyderabad Biryani,Healthy,Meals,4,120.07,20.65,5.4,Credit Card,Out for Delivery,21,4.3,480.28,25.94,474.99,321.62,153.37
+FD10739,2025-01-23,Bengaluru,West,Food Street,Chinese,Meals,1,520.88,61.59,20.9,UPI,Out for Delivery,36,4.6,520.88,108.86,473.61,267.58,206.03
+FD10513,2025-01-24,Bengaluru,South,Domino's,Chinese,Burger,2,300.03,50.17,8.0,Cash on Delivery,Delivered,38,4.2,600.06,48.0,602.23,466.98,135.25
+FD10009,2025-01-24,Bengaluru,West,Royal Kitchen,Fast Food,Cake,2,510.38,45.37,2.8,Cash on Delivery,Delivered,56,4.1,1020.76,28.58,1037.55,780.27,257.28
+FD10235,2025-01-25,Coimbatore,West,Annapoorna,Chinese,Fried Rice,4,610.68,76.68,4.6,Credit Card,Delivered,36,4.3,2442.72,112.37,2407.03,1396.36,1010.67
+FD10003,2025-01-26,Bengaluru,North,Burger House,Desserts,Meals,4,506.79,53.37,23.7,Credit Card,Cancelled,69,3.3,2027.16,480.44,1600.09,1131.26,468.83
+FD10391,2025-01-27,Coimbatore,East,Burger House,South Indian,Salad,3,418.36,22.12,12.1,UPI,Out for Delivery,45,4.7,1255.08,151.86,1125.34,691.47,433.87
+FD10771,2025-01-28,Chennai,West,Spice Hub,Healthy,Meals,4,222.57,60.55,2.3,Credit Card,Cancelled,57,4.4,890.28,20.48,930.35,583.49,346.86
+FD10190,2025-01-28,Hyderabad,North,Spice Hub,Chinese,Fried Rice,4,387.49,27.33,27.0,UPI,Delivered,55,4.2,1549.96,418.49,1158.8,785.21,373.59
+FD10532,2025-01-28,Kochi,West,Healthy Bowl,Healthy,Burger,1,403.46,74.35,23.1,Cash on Delivery,Delivered,25,4.5,403.46,93.2,384.61,272.22,112.39
+FD10472,2025-01-29,Chennai,North,Spice Hub,Healthy,Noodles,4,420.01,58.79,15.7,Credit Card,Delivered,48,4.2,1680.04,263.77,1475.06,987.73,487.33
+FD10362,2025-01-29,Coimbatore,South,Royal Kitchen,Fast Food,Dosa,1,238.84,67.04,6.7,UPI,Delivered,25,2.7,238.84,16.0,289.88,178.85,111.03
+FD10653,2025-01-30,Hyderabad,South,A2B,North Indian,Noodles,3,120.74,55.17,29.3,UPI,Returned,57,4.6,362.22,106.13,311.26,222.88,88.38
+FD10113,2025-01-30,Chennai,East,Domino's,North Indian,Meals,2,405.42,28.41,0.0,Credit Card,Returned,19,3.1,810.84,0.0,839.25,517.54,321.71
+FD10620,2025-01-30,Bengaluru,West,Spice Hub,Biryani,Dosa,1,300.1,19.28,6.7,Cash on Delivery,Cancelled,60,3.9,300.1,20.11,299.27,204.13,95.14
+FD10541,2025-01-31,Hyderabad,East,Spice Hub,Biryani,Dosa,3,437.25,62.73,26.6,UPI,Delivered,73,4.5,1311.75,348.93,1025.55,710.41,315.14
+FD10780,2025-01-31,Kochi,North,A2B,Pizza,Fried Rice,1,305.34,40.17,12.6,Debit Card,Delivered,72,4.9,305.34,38.47,307.04,238.48,68.56
+FD10417,2025-02-01,Kochi,West,SS Hyderabad Biryani,Chinese,Fried Rice,3,110.99,32.74,13.5,Debit Card,Delivered,27,4.0,332.97,44.95,320.76,213.71,107.05
+FD10715,2025-02-01,Coimbatore,North,Healthy Bowl,North Indian,Pizza,3,362.82,19.22,3.1,Cash on Delivery,Delivered,21,4.3,1088.46,33.74,1073.94,791.93,282.01
+FD10465,2025-02-01,Bengaluru,South,Pizza Corner,North Indian,Biryani,3,400.53,66.22,20.4,Wallet,Delivered,24,4.9,1201.59,245.12,1022.69,593.64,429.05
+FD10714,2025-02-01,Bengaluru,West,SS Hyderabad Biryani,Healthy,Fried Rice,4,527.11,71.6,20.1,Debit Card,Delivered,49,4.3,2108.44,423.8,1756.24,1275.13,481.11
+FD10766,2025-02-02,Hyderabad,South,Domino's,Fast Food,Biryani,3,483.01,46.96,10.1,Debit Card,Delivered,29,4.8,1449.03,146.35,1349.64,769.86,579.78
+FD10490,2025-02-02,Hyderabad,East,Food Street,South Indian,Biryani,2,164.42,38.47,16.3,Wallet,Delivered,66,3.9,328.84,53.6,313.71,234.27,79.44
+FD10617,2025-02-02,Bengaluru,South,A2B,Desserts,Biryani,1,292.62,26.96,16.3,Cash on Delivery,Delivered,56,5.0,292.62,47.7,271.88,200.64,71.24
+FD10306,2025-02-03,Madurai,West,Healthy Bowl,North Indian,Biryani,1,399.0,15.53,28.6,Cash on Delivery,Cancelled,28,4.6,399.0,114.11,300.42,172.3,128.12
+FD10325,2025-02-03,Madurai,South,Spice Hub,Desserts,Dosa,2,569.17,55.46,7.2,Wallet,Delivered,67,4.6,1138.34,81.96,1111.84,822.69,289.15
+FD10238,2025-02-03,Bengaluru,North,Domino's,Chinese,Meals,1,210.69,42.06,10.7,Debit Card,Cancelled,22,4.6,210.69,22.54,230.21,158.45,71.76
+FD10063,2025-02-03,Coimbatore,East,Burger House,Chinese,Salad,4,402.86,43.25,5.7,UPI,Delivered,60,4.1,1611.44,91.85,1562.84,1011.48,551.36
+FD10260,2025-02-04,Hyderabad,West,Spice Hub,Chinese,Dosa,2,372.0,66.45,19.9,Debit Card,Out for Delivery,52,2.7,744.0,148.06,662.39,516.05,146.34
+FD10160,2025-02-05,Hyderabad,East,Healthy Bowl,Fast Food,Pizza,2,426.56,22.65,14.2,Wallet,Cancelled,36,4.7,853.12,121.14,754.63,436.19,318.44
+FD10089,2025-02-05,Hyderabad,West,SS Hyderabad Biryani,North Indian,Meals,2,166.01,66.15,6.7,Cash on Delivery,Delivered,18,2.0,332.02,22.25,375.92,233.04,142.88
+FD10312,2025-02-06,Coimbatore,West,Domino's,Pizza,Parotta,2,648.36,55.76,11.6,UPI,Delivered,58,3.4,1296.72,150.42,1202.06,766.28,435.78
+FD10217,2025-02-06,Madurai,South,Food Street,Chinese,Pizza,2,171.27,68.86,12.3,Cash on Delivery,Cancelled,61,3.4,342.54,42.13,369.27,214.16,155.11
+FD10601,2025-02-07,Hyderabad,West,SS Hyderabad Biryani,South Indian,Noodles,3,390.0,31.18,23.9,UPI,Cancelled,28,5.0,1170.0,279.63,921.55,521.25,400.3
+FD10295,2025-02-07,Chennai,West,Annapoorna,South Indian,Burger,2,95.34,32.82,2.8,Credit Card,Delivered,53,4.6,190.68,5.34,218.16,168.18,49.98
+FD10496,2025-02-08,Madurai,East,Spice Hub,Chinese,Meals,2,342.75,75.5,21.4,Debit Card,Delivered,37,3.0,685.5,146.7,614.3,451.22,163.08
+FD10034,2025-02-08,Coimbatore,North,Annapoorna,Desserts,Pizza,1,310.46,73.41,7.1,UPI,Out for Delivery,70,4.5,310.46,22.04,361.83,234.02,127.81
+FD10097,2025-02-09,Bengaluru,North,Annapoorna,Pizza,Parotta,2,389.66,72.81,19.8,Debit Card,Delivered,70,4.4,779.32,154.31,697.82,542.43,155.39
+FD10767,2025-02-09,Chennai,East,Spice Hub,Chinese,Meals,3,527.76,48.69,4.5,Debit Card,Delivered,69,4.0,1583.28,71.25,1560.72,947.3,613.42
+FD10770,2025-02-09,Coimbatore,West,SS Hyderabad Biryani,Fast Food,Meals,3,222.93,29.54,20.9,Credit Card,Delivered,33,3.9,668.79,139.78,558.55,369.25,189.3
+FD10467,2025-02-10,Coimbatore,South,Food Street,Healthy,Biryani,4,121.84,63.32,3.0,UPI,Delivered,73,3.9,487.36,14.62,536.06,374.45,161.61
+FD10614,2025-02-10,Chennai,West,Spice Hub,Pizza,Biryani,3,334.61,64.16,14.9,UPI,Delivered,72,4.9,1003.83,149.57,918.42,574.13,344.29
+FD10592,2025-02-11,Kochi,South,SS Hyderabad Biryani,Chinese,Dosa,4,506.53,70.6,20.6,Cash on Delivery,Cancelled,19,4.6,2026.12,417.38,1679.34,1201.96,477.38
+FD10368,2025-02-11,Hyderabad,South,Royal Kitchen,South Indian,Parotta,3,437.22,21.68,27.9,Cash on Delivery,Out for Delivery,56,4.7,1311.66,365.95,967.39,739.07,228.32
+FD10524,2025-02-12,Coimbatore,West,Domino's,Biryani,Cake,1,170.9,65.19,21.3,Debit Card,Out for Delivery,24,2.7,170.9,36.4,199.69,115.53,84.16
+FD10012,2025-02-12,Kochi,West,Royal Kitchen,Biryani,Meals,1,578.13,73.59,9.7,Wallet,Delivered,31,3.9,578.13,56.08,595.64,334.74,260.9
+FD10170,2025-02-12,Kochi,East,Royal Kitchen,Desserts,Fried Rice,3,165.47,48.24,6.6,Wallet,Delivered,42,4.8,496.41,32.76,511.89,337.13,174.76
+FD10095,2025-02-13,Bengaluru,East,A2B,Pizza,Pizza,2,420.93,57.14,9.1,Cash on Delivery,Delivered,34,3.8,841.86,76.61,822.39,486.39,336.0
+FD10347,2025-02-13,Hyderabad,South,Food Street,Desserts,Noodles,2,477.68,26.9,27.9,Credit Card,Delivered,74,4.3,955.36,266.55,715.71,452.5,263.21
+FD10474,2025-02-13,Bengaluru,South,A2B,Biryani,Parotta,1,130.25,75.49,30.0,Cash on Delivery,Returned,45,5.0,130.25,39.08,166.66,106.31,60.35
+FD10022,2025-02-14,Kochi,West,Annapoorna,Healthy,Salad,2,625.97,19.83,25.3,Debit Card,Delivered,60,3.4,1251.94,316.74,955.03,714.34,240.69
+FD10263,2025-02-14,Bengaluru,West,Spice Hub,South Indian,Parotta,3,483.18,27.4,13.0,Wallet,Delivered,68,3.9,1449.54,188.44,1288.5,836.79,451.71
+FD10106,2025-02-14,Coimbatore,North,Pizza Corner,Healthy,Dosa,4,123.48,52.24,9.2,Cash on Delivery,Delivered,24,4.2,493.92,45.44,500.72,320.99,179.73
+FD10573,2025-02-14,Coimbatore,South,Spice Hub,North Indian,Salad,1,225.94,18.58,5.2,Debit Card,Cancelled,63,3.9,225.94,11.75,232.77,128.93,103.84
+FD10206,2025-02-14,Madurai,North,A2B,Pizza,Pizza,4,494.4,77.4,6.2,UPI,Returned,48,3.8,1977.6,122.61,1932.39,1122.78,809.61
+FD10755,2025-02-15,Kochi,West,Food Street,Biryani,Burger,2,81.02,43.85,6.5,Wallet,Delivered,46,3.6,162.04,10.53,195.36,139.72,55.64
+FD10166,2025-02-15,Hyderabad,South,Annapoorna,Pizza,Dosa,1,379.24,32.05,0.9,Debit Card,Returned,32,2.9,379.24,3.41,407.88,310.0,97.88
+FD10168,2025-02-15,Chennai,South,Healthy Bowl,Chinese,Biryani,1,244.07,57.4,14.5,UPI,Delivered,27,5.0,244.07,35.39,266.08,154.08,112.0
+FD10075,2025-02-17,Bengaluru,South,Burger House,North Indian,Noodles,1,96.45,71.78,27.3,UPI,Delivered,57,4.6,96.45,26.33,141.9,89.43,52.47
+FD10612,2025-02-17,Kochi,South,Annapoorna,South Indian,Fried Rice,4,540.42,30.17,26.4,Debit Card,Delivered,74,4.3,2161.68,570.68,1621.17,1113.17,508.0
+FD10230,2025-02-17,Kochi,South,Food Street,Desserts,Burger,2,370.09,21.89,23.4,Cash on Delivery,Out for Delivery,27,3.8,740.18,173.2,588.87,410.33,178.54
+FD10525,2025-02-17,Kochi,East,A2B,Pizza,Salad,4,580.25,48.86,28.0,Wallet,Delivered,24,3.7,2321.0,649.88,1719.98,958.67,761.31
+FD10182,2025-02-18,Kochi,South,A2B,Fast Food,Parotta,2,88.23,18.6,9.3,Wallet,Out for Delivery,34,4.0,176.46,16.41,178.65,120.33,58.32
+FD10221,2025-02-19,Kochi,East,Food Street,Biryani,Noodles,3,557.08,18.23,1.6,Debit Card,Delivered,23,3.7,1671.24,26.74,1662.73,1161.23,501.5
+FD10237,2025-02-19,Coimbatore,North,Annapoorna,North Indian,Fried Rice,3,526.85,33.08,26.0,Debit Card,Delivered,27,3.7,1580.55,410.94,1202.69,701.33,501.36
+FD10418,2025-02-19,Kochi,West,A2B,Biryani,Cake,4,81.32,70.8,10.6,Cash on Delivery,Cancelled,20,3.6,325.28,34.48,361.6,244.76,116.84
+FD10129,2025-02-19,Kochi,East,Healthy Bowl,Desserts,Fried Rice,1,258.26,73.18,21.8,Debit Card,Delivered,34,4.0,258.26,56.3,275.14,174.25,100.89
+FD10731,2025-02-20,Madurai,East,Spice Hub,Pizza,Dosa,4,639.25,55.41,29.0,Credit Card,Cancelled,32,5.0,2557.0,741.53,1870.88,1333.43,537.45
+FD10743,2025-02-21,Bengaluru,East,Pizza Corner,Desserts,Biryani,1,285.52,19.4,18.4,Credit Card,Delivered,56,3.0,285.52,52.54,252.38,167.54,84.84
+FD10554,2025-02-22,Bengaluru,South,Burger House,Biryani,Dosa,3,125.35,31.59,9.9,Debit Card,Cancelled,44,5.0,376.05,37.23,370.41,216.75,153.66
+FD10633,2025-02-22,Hyderabad,South,SS Hyderabad Biryani,South Indian,Burger,3,518.98,15.49,3.6,UPI,Delivered,63,4.7,1556.94,56.05,1516.38,1180.98,335.4
+FD10680,2025-02-22,Bengaluru,North,A2B,Chinese,Burger,1,311.38,75.74,25.2,Wallet,Delivered,67,3.4,311.38,78.47,308.65,221.45,87.2
+FD10094,2025-02-24,Bengaluru,East,Royal Kitchen,South Indian,Burger,1,355.13,20.42,19.8,Wallet,Delivered,47,4.4,355.13,70.32,305.23,209.98,95.25
+FD10102,2025-02-24,Bengaluru,North,Spice Hub,North Indian,Pizza,4,234.11,44.67,29.8,Debit Card,Delivered,37,4.4,936.44,279.06,702.05,398.34,303.71
+FD10591,2025-02-25,Coimbatore,West,SS Hyderabad Biryani,Desserts,Pizza,2,525.31,72.28,10.2,Cash on Delivery,Delivered,69,4.2,1050.62,107.16,1015.74,695.57,320.17
+FD10585,2025-02-25,Chennai,East,Healthy Bowl,Healthy,Parotta,1,504.24,33.02,22.0,UPI,Delivered,47,4.3,504.24,110.93,426.33,322.94,103.39
+FD10577,2025-02-25,Madurai,South,Healthy Bowl,South Indian,Dosa,4,136.81,17.33,12.9,UPI,Delivered,58,3.7,547.24,70.59,493.98,273.76,220.22
+FD10454,2025-02-26,Bengaluru,North,Spice Hub,South Indian,Cake,2,521.81,67.99,16.2,Cash on Delivery,Delivered,58,4.4,1043.62,169.07,942.54,580.32,362.22
+FD10562,2025-02-28,Coimbatore,South,Food Street,Fast Food,Cake,4,168.49,33.53,29.3,UPI,Delivered,31,4.1,673.96,197.47,510.02,286.5,223.52
+FD10375,2025-03-01,Kochi,North,Burger House,Fast Food,Noodles,3,284.33,70.05,17.2,Credit Card,Delivered,71,4.3,852.99,146.71,776.33,558.81,217.52
+FD10246,2025-03-03,Madurai,East,Domino's,Fast Food,Meals,4,647.56,60.27,25.4,Wallet,Cancelled,70,4.3,2590.24,657.92,1992.59,1524.52,468.07
+FD10354,2025-03-04,Coimbatore,South,Spice Hub,Desserts,Fried Rice,4,180.5,59.51,28.1,Credit Card,Delivered,39,4.0,722.0,202.88,578.63,369.63,209.0
+FD10566,2025-03-04,Madurai,South,A2B,Chinese,Burger,1,377.22,72.62,23.9,Credit Card,Delivered,61,4.5,377.22,90.16,359.68,221.56,138.12
+FD10611,2025-03-04,Hyderabad,South,SS Hyderabad Biryani,South Indian,Biryani,1,99.38,28.01,2.1,Credit Card,Delivered,20,3.8,99.38,2.09,125.3,87.86,37.44
+FD10159,2025-03-05,Hyderabad,North,Food Street,Healthy,Pizza,2,557.5,25.68,20.3,Wallet,Returned,68,3.3,1115.0,226.34,914.34,703.25,211.09
+FD10709,2025-03-06,Chennai,South,Burger House,Healthy,Pizza,1,536.53,44.01,22.6,Wallet,Delivered,27,5.0,536.53,121.26,459.28,308.23,151.05
+FD10187,2025-03-06,Chennai,East,Spice Hub,Chinese,Biryani,2,165.53,29.01,24.3,Wallet,Cancelled,44,4.1,331.06,80.45,279.62,154.89,124.73
+FD10616,2025-03-07,Chennai,South,Annapoorna,Healthy,Meals,2,637.46,51.71,24.5,Cash on Delivery,Delivered,35,5.0,1274.92,312.36,1014.27,563.47,450.8
+FD10702,2025-03-07,Hyderabad,West,Food Street,South Indian,Pizza,4,583.59,66.2,3.3,Wallet,Cancelled,39,4.0,2334.36,77.03,2323.53,1527.6,795.93
+FD10720,2025-03-08,Madurai,West,Royal Kitchen,Chinese,Biryani,2,217.85,75.72,27.4,Credit Card,Delivered,43,5.0,435.7,119.38,392.04,254.04,138.0
+FD10459,2025-03-09,Bengaluru,South,A2B,Pizza,Parotta,4,198.13,16.85,5.6,Cash on Delivery,Returned,41,3.4,792.52,44.38,764.99,541.63,223.36
+FD10236,2025-03-09,Madurai,South,Pizza Corner,Biryani,Salad,4,639.6,38.57,8.7,Cash on Delivery,Delivered,20,4.1,2558.4,222.58,2374.39,1560.1,814.29
+FD10004,2025-03-09,Kochi,South,Domino's,North Indian,Parotta,3,615.68,22.17,27.6,Debit Card,Out for Delivery,37,4.6,1847.04,509.78,1359.43,945.2,414.23
+FD10073,2025-03-09,Kochi,North,Domino's,Chinese,Pizza,4,391.48,18.35,16.4,Cash on Delivery,Delivered,52,4.2,1565.92,256.81,1327.46,910.51,416.95
+FD10058,2025-03-09,Chennai,South,SS Hyderabad Biryani,Chinese,Noodles,1,175.28,26.44,16.7,UPI,Delivered,70,3.8,175.28,29.27,172.45,96.96,75.49
+FD10015,2025-03-10,Coimbatore,South,Pizza Corner,Biryani,Dosa,3,302.16,65.51,12.8,Cash on Delivery,Cancelled,67,5.0,906.48,116.03,855.96,504.94,351.02
+FD10241,2025-03-10,Coimbatore,North,Burger House,Biryani,Burger,3,382.86,15.89,3.8,Cash on Delivery,Delivered,34,4.8,1148.58,43.65,1120.82,797.47,323.35
+FD10488,2025-03-10,Madurai,South,Spice Hub,Biryani,Fried Rice,4,396.67,69.3,20.8,Cash on Delivery,Delivered,39,5.0,1586.68,330.03,1325.95,914.94,411.01
+FD10279,2025-03-10,Hyderabad,East,Spice Hub,Desserts,Dosa,4,530.82,20.06,26.8,Debit Card,Delivered,63,4.5,2123.28,569.04,1574.3,958.26,616.04
+FD10613,2025-03-11,Chennai,North,Pizza Corner,Chinese,Meals,2,447.76,20.13,7.6,Cash on Delivery,Delivered,42,4.2,895.52,68.06,847.59,524.27,323.32
+FD10789,2025-03-11,Coimbatore,South,Annapoorna,Biryani,Burger,3,320.8,43.44,16.5,Debit Card,Delivered,40,4.3,962.4,158.8,847.04,468.41,378.63
+FD10388,2025-03-11,Coimbatore,South,Pizza Corner,Desserts,Biryani,3,141.41,33.23,9.8,Debit Card,Delivered,61,3.5,424.23,41.57,415.89,312.37,103.52
+FD10218,2025-03-11,Madurai,South,Food Street,Chinese,Biryani,1,323.52,58.85,3.6,Debit Card,Returned,61,3.6,323.52,11.65,370.72,207.14,163.58
+FD10645,2025-03-12,Chennai,East,Domino's,Pizza,Fried Rice,2,222.83,54.78,25.6,Credit Card,Delivered,45,3.6,445.66,114.09,386.35,215.34,171.01
+FD10452,2025-03-13,Madurai,South,Pizza Corner,Desserts,Parotta,4,287.09,67.36,12.2,Cash on Delivery,Returned,43,2.9,1148.36,140.1,1075.62,783.89,291.73
+FD10046,2025-03-13,Bengaluru,West,Spice Hub,Chinese,Fried Rice,1,327.47,72.66,0.9,Credit Card,Out for Delivery,56,5.0,327.47,2.95,397.18,277.83,119.35
+FD10685,2025-03-13,Hyderabad,West,Healthy Bowl,Pizza,Dosa,4,579.12,66.48,29.4,UPI,Delivered,57,3.7,2316.48,681.05,1701.91,1220.64,481.27
+FD10039,2025-03-14,Bengaluru,North,Healthy Bowl,Healthy,Dosa,3,368.38,62.34,15.3,UPI,Out for Delivery,71,4.7,1105.14,169.09,998.39,625.71,372.68
+FD10331,2025-03-14,Chennai,North,Healthy Bowl,Chinese,Meals,3,273.97,34.3,24.0,UPI,Delivered,54,3.9,821.91,197.26,658.95,402.88,256.07
+FD10010,2025-03-14,Coimbatore,West,Burger House,Fast Food,Cake,1,140.95,59.41,18.0,Debit Card,Out for Delivery,22,4.8,140.95,25.37,174.99,110.23,64.76
+FD10409,2025-03-14,Coimbatore,South,SS Hyderabad Biryani,Biryani,Cake,2,258.46,30.59,25.7,Cash on Delivery,Cancelled,33,3.8,516.92,132.85,414.66,257.73,156.93
+FD10290,2025-03-15,Coimbatore,East,Annapoorna,Pizza,Parotta,2,177.71,51.41,28.9,Credit Card,Delivered,53,4.6,355.42,102.72,304.11,173.27,130.84
+FD10017,2025-03-17,Bengaluru,West,SS Hyderabad Biryani,Pizza,Salad,4,613.99,27.25,4.0,Cash on Delivery,Out for Delivery,31,5.0,2455.96,98.24,2384.97,1314.44,1070.53
+FD10543,2025-03-18,Bengaluru,North,Burger House,Fast Food,Burger,1,641.78,25.58,0.9,Credit Card,Cancelled,18,5.0,641.78,5.78,661.58,389.45,272.13
+FD10621,2025-03-18,Kochi,East,Annapoorna,Biryani,Burger,3,333.19,75.79,26.8,UPI,Out for Delivery,33,3.5,999.57,267.88,807.48,474.61,332.87
+FD10250,2025-03-18,Kochi,East,SS Hyderabad Biryani,Biryani,Salad,3,224.85,48.29,2.5,Cash on Delivery,Out for Delivery,24,5.0,674.55,16.86,705.98,487.95,218.03
+FD10150,2025-03-18,Bengaluru,West,Domino's,North Indian,Noodles,2,491.66,23.18,19.8,Debit Card,Out for Delivery,45,3.8,983.32,194.7,811.8,561.61,250.19
+FD10137,2025-03-18,Hyderabad,North,A2B,Desserts,Biryani,4,182.38,26.64,16.4,Debit Card,Delivered,70,3.5,729.52,119.64,636.52,482.0,154.52
+FD10507,2025-03-19,Madurai,West,Pizza Corner,Chinese,Salad,2,604.83,75.45,8.3,Debit Card,Out for Delivery,19,3.4,1209.66,100.4,1184.71,900.3,284.41
+FD10706,2025-03-19,Coimbatore,North,A2B,Fast Food,Parotta,2,371.58,53.96,18.5,Wallet,Cancelled,47,4.2,743.16,137.48,659.64,376.17,283.47
+FD10161,2025-03-19,Chennai,South,Pizza Corner,South Indian,Parotta,2,84.27,61.53,29.0,Wallet,Delivered,65,4.5,168.54,48.88,181.19,109.18,72.01
+FD10798,2025-03-19,Madurai,East,Burger House,Biryani,Cake,3,321.21,24.53,5.8,Credit Card,Out for Delivery,27,3.2,963.63,55.89,932.27,543.61,388.66
+FD10610,2025-03-19,Coimbatore,North,Spice Hub,Healthy,Pizza,4,214.85,60.89,5.0,Debit Card,Delivered,22,4.7,859.4,42.97,877.32,588.32,289.0
+FD10234,2025-03-19,Bengaluru,South,Royal Kitchen,South Indian,Biryani,2,94.43,48.6,18.4,Wallet,Delivered,35,4.2,188.86,34.75,202.71,115.98,86.73
+FD10248,2025-03-20,Madurai,West,Domino's,Fast Food,Burger,2,606.04,35.64,28.3,UPI,Out for Delivery,20,3.9,1212.08,343.02,904.7,519.87,384.83
+FD10698,2025-03-21,Chennai,West,Healthy Bowl,Pizza,Salad,3,157.34,42.18,18.5,Wallet,Delivered,37,4.1,472.02,87.32,426.88,269.21,157.67
+FD10426,2025-03-21,Coimbatore,West,A2B,Healthy,Noodles,1,547.79,37.11,19.4,Debit Card,Cancelled,52,3.9,547.79,106.27,478.63,279.6,199.03
+FD10570,2025-03-21,Kochi,North,Food Street,Pizza,Dosa,2,255.5,76.88,6.6,Debit Card,Out for Delivery,61,4.0,511.0,33.73,554.15,413.27,140.88
+FD10364,2025-03-21,Chennai,South,Annapoorna,Desserts,Pizza,4,372.57,52.41,2.2,Wallet,Delivered,22,2.3,1490.28,32.79,1509.9,922.49,587.41
+FD10393,2025-03-22,Kochi,East,SS Hyderabad Biryani,Biryani,Meals,3,632.62,51.17,12.9,Cash on Delivery,Delivered,74,4.6,1897.86,244.82,1704.21,1284.42,419.79
+FD10788,2025-03-22,Coimbatore,West,SS Hyderabad Biryani,Healthy,Burger,2,203.78,28.15,16.0,Cash on Delivery,Delivered,25,4.8,407.56,65.21,370.5,260.35,110.15
+FD10329,2025-03-23,Coimbatore,West,Royal Kitchen,North Indian,Fried Rice,3,113.61,63.17,25.5,Debit Card,Cancelled,23,3.4,340.83,86.91,317.09,240.85,76.24
+FD10726,2025-03-23,Hyderabad,West,Pizza Corner,North Indian,Dosa,1,117.45,61.25,27.9,UPI,Delivered,25,3.3,117.45,32.77,145.93,82.8,63.13
+FD10500,2025-03-24,Madurai,North,Pizza Corner,Biryani,Parotta,3,95.17,23.43,27.8,Credit Card,Delivered,26,4.5,285.51,79.37,229.57,176.66,52.91
+FD10070,2025-03-25,Coimbatore,North,Food Street,Chinese,Parotta,3,175.91,52.11,20.6,UPI,Delivered,41,3.1,527.73,108.71,471.13,298.45,172.68
+FD10425,2025-03-26,Coimbatore,West,A2B,Desserts,Burger,1,459.38,76.81,24.5,UPI,Delivered,28,4.4,459.38,112.55,423.64,315.39,108.25
+FD10355,2025-03-26,Madurai,North,Annapoorna,Fast Food,Meals,3,275.14,29.97,21.8,Wallet,Cancelled,47,4.1,825.42,179.94,675.45,492.66,182.79
+FD10527,2025-03-26,Madurai,East,SS Hyderabad Biryani,North Indian,Salad,1,335.82,60.49,12.7,Debit Card,Delivered,48,4.2,335.82,42.65,353.66,203.77,149.89
+FD10142,2025-03-27,Kochi,East,Royal Kitchen,Chinese,Pizza,3,212.62,74.47,11.4,UPI,Delivered,18,4.3,637.86,72.72,639.61,401.69,237.92
+FD10670,2025-03-27,Hyderabad,West,Burger House,Pizza,Dosa,4,284.68,47.37,20.2,Cash on Delivery,Returned,73,5.0,1138.72,230.02,956.07,579.24,376.83
+FD10152,2025-03-27,Chennai,North,Burger House,Pizza,Burger,3,230.72,43.68,2.3,UPI,Delivered,53,5.0,692.16,15.92,719.92,426.8,293.12
+FD10379,2025-03-28,Bengaluru,South,Annapoorna,Chinese,Dosa,4,252.96,72.39,19.1,Wallet,Delivered,36,4.0,1011.84,193.26,890.97,500.01,390.96
+FD10438,2025-03-29,Hyderabad,West,Healthy Bowl,Biryani,Dosa,3,317.6,27.59,13.3,UPI,Out for Delivery,34,4.2,952.8,126.72,853.67,609.43,244.24
+FD10134,2025-03-29,Kochi,East,Burger House,Chinese,Meals,2,489.95,26.86,11.6,Wallet,Delivered,72,4.0,979.9,113.67,893.09,541.73,351.36
+FD10284,2025-03-30,Coimbatore,East,Spice Hub,North Indian,Dosa,2,375.28,62.7,20.3,UPI,Delivered,32,3.5,750.56,152.36,660.9,395.09,265.81
+FD10548,2025-03-30,Madurai,West,Annapoorna,Desserts,Dosa,4,583.05,78.2,10.7,Cash on Delivery,Out for Delivery,56,5.0,2332.2,249.55,2160.85,1278.96,881.89
+FD10765,2025-03-30,Coimbatore,West,Food Street,Desserts,Fried Rice,4,254.56,21.65,7.7,Debit Card,Delivered,47,4.7,1018.24,78.4,961.49,684.64,276.85
+FD10763,2025-03-31,Kochi,South,Spice Hub,South Indian,Cake,4,645.1,75.75,8.9,Credit Card,Delivered,74,3.2,2580.4,229.66,2426.49,1774.61,651.88
+FD10480,2025-03-31,Madurai,West,Spice Hub,Biryani,Burger,3,319.57,69.25,24.6,Debit Card,Out for Delivery,34,5.0,958.71,235.84,792.12,555.34,236.78
+FD10556,2025-03-31,Madurai,South,Healthy Bowl,Desserts,Dosa,3,358.63,23.72,21.6,Cash on Delivery,Delivered,30,3.5,1075.89,232.39,867.22,591.54,275.68
+FD10482,2025-03-31,Madurai,South,Healthy Bowl,North Indian,Noodles,1,562.58,48.81,23.8,Credit Card,Delivered,57,3.0,562.58,133.89,477.5,284.48,193.02
+FD10537,2025-03-31,Coimbatore,North,A2B,Biryani,Pizza,3,329.47,28.88,5.1,Credit Card,Delivered,18,5.0,988.41,50.41,966.88,715.83,251.05
+FD10449,2025-04-01,Madurai,East,Domino's,Biryani,Salad,1,590.15,64.68,23.1,UPI,Cancelled,19,3.3,590.15,136.32,518.51,326.9,191.61
+FD10595,2025-04-02,Bengaluru,East,Royal Kitchen,Pizza,Biryani,3,334.85,31.97,22.6,Cash on Delivery,Delivered,57,3.3,1004.55,227.03,809.49,525.16,284.33
+FD10285,2025-04-02,Kochi,South,Spice Hub,South Indian,Biryani,1,367.67,16.67,12.6,Wallet,Delivered,49,4.1,367.67,46.33,338.01,262.25,75.76
+FD10044,2025-04-03,Coimbatore,West,SS Hyderabad Biryani,Biryani,Burger,3,568.46,16.57,21.6,UPI,Delivered,27,4.1,1705.38,368.36,1353.59,862.7,490.89
+FD10225,2025-04-03,Coimbatore,North,SS Hyderabad Biryani,Pizza,Dosa,4,408.34,68.32,20.4,Wallet,Returned,49,3.3,1633.36,333.21,1368.47,964.25,404.22
+FD10053,2025-04-03,Chennai,South,Royal Kitchen,Fast Food,Fried Rice,3,426.71,70.82,28.9,UPI,Out for Delivery,53,3.8,1280.13,369.96,980.99,605.48,375.51
+FD10442,2025-04-04,Coimbatore,South,SS Hyderabad Biryani,Pizza,Pizza,1,154.99,31.42,10.9,Cash on Delivery,Delivered,25,2.8,154.99,16.89,169.52,125.61,43.91
+FD10220,2025-04-04,Coimbatore,West,Annapoorna,Healthy,Parotta,3,98.25,68.66,1.2,Credit Card,Out for Delivery,44,3.2,294.75,3.54,359.87,252.92,106.95
+FD10289,2025-04-04,Bengaluru,East,Food Street,Pizza,Meals,3,150.27,38.06,24.7,Cash on Delivery,Cancelled,50,4.6,450.81,111.35,377.52,256.46,121.06
+FD10255,2025-04-05,Bengaluru,North,Annapoorna,Biryani,Fried Rice,1,496.66,64.31,25.7,Cash on Delivery,Delivered,38,3.5,496.66,127.64,433.33,290.76,142.57
+FD10173,2025-04-06,Coimbatore,South,SS Hyderabad Biryani,North Indian,Burger,4,166.75,29.57,28.6,Credit Card,Cancelled,54,4.1,667.0,190.76,505.81,344.66,161.15
+FD10243,2025-04-06,Hyderabad,North,Spice Hub,North Indian,Cake,4,420.0,65.93,11.9,Credit Card,Delivered,71,3.9,1680.0,199.92,1546.01,1191.39,354.62
+FD10575,2025-04-07,Madurai,West,Royal Kitchen,Chinese,Parotta,1,587.99,74.46,27.1,Credit Card,Delivered,25,3.8,587.99,159.35,503.1,342.87,160.23
+FD10338,2025-04-07,Madurai,North,Domino's,Chinese,Dosa,4,601.47,29.96,2.5,Credit Card,Out for Delivery,37,4.1,2405.88,60.15,2375.69,1845.65,530.04
+FD10194,2025-04-11,Bengaluru,North,SS Hyderabad Biryani,Fast Food,Dosa,2,281.26,73.25,13.8,Credit Card,Delivered,21,3.9,562.52,77.63,558.14,392.96,165.18
+FD10572,2025-04-11,Madurai,West,Domino's,Biryani,Dosa,4,214.46,78.98,17.3,Credit Card,Delivered,25,3.5,857.84,148.41,788.41,597.7,190.71
+FD10110,2025-04-11,Chennai,South,Domino's,Chinese,Salad,4,478.16,21.69,3.5,Debit Card,Delivered,21,4.0,1912.64,66.94,1867.39,1237.18,630.21
+FD10787,2025-04-11,Chennai,North,Healthy Bowl,Healthy,Dosa,1,267.8,68.8,13.9,Cash on Delivery,Delivered,46,5.0,267.8,37.22,299.38,226.12,73.26
+FD10559,2025-04-12,Chennai,North,A2B,Healthy,Fried Rice,3,212.09,61.44,11.5,Credit Card,Delivered,26,3.6,636.27,73.17,624.54,402.85,221.69
+FD10684,2025-04-12,Kochi,West,Spice Hub,Chinese,Meals,4,605.69,20.66,0.4,Cash on Delivery,Out for Delivery,63,4.5,2422.76,9.69,2433.73,1524.78,908.95
+FD10281,2025-04-13,Hyderabad,West,Royal Kitchen,South Indian,Cake,3,347.22,76.39,17.8,Wallet,Out for Delivery,69,4.6,1041.66,185.42,932.63,605.02,327.61
+FD10484,2025-04-13,Coimbatore,West,Healthy Bowl,Biryani,Biryani,4,216.63,71.83,1.7,Credit Card,Out for Delivery,33,3.3,866.52,14.73,923.62,647.69,275.93
+FD10365,2025-04-13,Chennai,North,A2B,Chinese,Dosa,2,296.29,68.19,5.8,Cash on Delivery,Delivered,30,5.0,592.58,34.37,626.4,398.78,227.62
+FD10006,2025-04-14,Chennai,West,Domino's,Pizza,Pizza,4,553.28,59.27,21.1,Credit Card,Delivered,51,4.0,2213.12,466.97,1805.42,1313.51,491.91
+FD10521,2025-04-14,Coimbatore,East,Healthy Bowl,South Indian,Dosa,3,545.76,67.64,3.7,Cash on Delivery,Returned,30,4.4,1637.28,60.58,1644.34,1198.16,446.18
+FD10330,2025-04-14,Madurai,South,A2B,North Indian,Salad,3,354.18,52.95,11.1,Debit Card,Delivered,28,4.7,1062.54,117.94,997.55,665.07,332.48
+FD10510,2025-04-14,Kochi,North,Domino's,North Indian,Salad,3,405.75,50.55,14.7,UPI,Delivered,58,4.3,1217.25,178.94,1088.86,682.15,406.71
+FD10587,2025-04-15,Bengaluru,West,Royal Kitchen,Healthy,Noodles,1,257.06,67.58,11.9,UPI,Delivered,49,4.1,257.06,30.59,294.05,168.29,125.76
+FD10288,2025-04-15,Hyderabad,North,Annapoorna,Healthy,Meals,2,222.17,32.81,20.5,UPI,Out for Delivery,50,4.2,444.34,91.09,386.06,241.28,144.78
+FD10401,2025-04-15,Madurai,West,Annapoorna,Biryani,Fried Rice,3,558.98,16.17,1.7,UPI,Delivered,68,4.5,1676.94,28.51,1664.6,1197.84,466.76
+FD10131,2025-04-16,Coimbatore,West,SS Hyderabad Biryani,Fast Food,Parotta,2,334.14,77.12,1.7,Debit Card,Cancelled,33,4.6,668.28,11.36,734.04,509.49,224.55
+FD10233,2025-04-16,Bengaluru,North,Annapoorna,Desserts,Dosa,2,334.85,39.11,25.6,UPI,Delivered,68,3.6,669.7,171.44,537.37,378.51,158.86
+FD10542,2025-04-17,Chennai,East,Burger House,South Indian,Pizza,1,80.33,52.08,19.3,Debit Card,Returned,38,5.0,80.33,15.5,116.91,65.84,51.07
+FD10122,2025-04-17,Chennai,West,Annapoorna,Desserts,Pizza,1,137.01,73.93,16.5,Credit Card,Cancelled,70,3.2,137.01,22.61,188.33,135.35,52.98
+FD10079,2025-04-18,Bengaluru,South,A2B,Desserts,Burger,4,456.76,65.0,7.7,Wallet,Cancelled,66,3.8,1827.04,140.68,1751.36,1127.76,623.6
+FD10485,2025-04-18,Madurai,North,Pizza Corner,Healthy,Burger,3,611.13,74.32,12.5,Debit Card,Delivered,69,4.6,1833.39,229.17,1678.54,1215.06,463.48
+FD10661,2025-04-18,Chennai,South,Burger House,North Indian,Cake,4,208.84,18.41,18.7,Wallet,Out for Delivery,69,4.6,835.36,156.21,697.56,528.16,169.4
+FD10083,2025-04-21,Bengaluru,North,Annapoorna,Desserts,Noodles,1,627.09,35.36,14.5,Wallet,Delivered,69,4.3,627.09,90.93,571.52,351.64,219.88
+FD10123,2025-04-21,Madurai,West,Pizza Corner,North Indian,Biryani,1,236.87,50.5,20.8,Credit Card,Returned,72,3.6,236.87,49.27,238.1,135.21,102.89
+FD10351,2025-04-22,Madurai,North,Royal Kitchen,Healthy,Pizza,2,500.33,71.41,9.3,Wallet,Cancelled,27,3.6,1000.66,93.06,979.01,750.1,228.91
+FD10728,2025-04-22,Kochi,East,Annapoorna,South Indian,Noodles,1,214.57,58.1,19.3,UPI,Delivered,33,4.6,214.57,41.41,231.26,151.45,79.81
+FD10643,2025-04-23,Chennai,West,Spice Hub,Desserts,Salad,1,581.96,36.8,10.7,Wallet,Delivered,56,4.1,581.96,62.27,556.49,411.0,145.49
+FD10028,2025-04-23,Madurai,North,Pizza Corner,Biryani,Meals,3,224.13,57.77,9.0,Wallet,Out for Delivery,30,3.3,672.39,60.52,669.64,371.32,298.32
+FD10498,2025-04-23,Coimbatore,North,Healthy Bowl,Pizza,Pizza,1,420.19,42.22,14.8,Wallet,Delivered,47,4.6,420.19,62.19,400.22,283.62,116.6
+FD10405,2025-04-23,Madurai,East,Domino's,Chinese,Cake,2,178.95,52.89,2.6,Wallet,Delivered,51,3.1,357.9,9.31,401.48,298.39,103.09
+FD10414,2025-04-24,Coimbatore,South,Annapoorna,South Indian,Parotta,3,366.31,43.44,12.1,Debit Card,Delivered,66,3.0,1098.93,132.97,1009.4,602.88,406.52
+FD10422,2025-04-25,Kochi,East,Burger House,Pizza,Salad,1,255.27,64.25,13.9,UPI,Delivered,73,4.7,255.27,35.48,284.04,182.26,101.78
+FD10691,2025-04-25,Madurai,South,Royal Kitchen,South Indian,Fried Rice,4,121.99,75.65,12.7,Credit Card,Delivered,55,5.0,487.96,61.97,501.64,311.55,190.09
+FD10641,2025-04-26,Madurai,North,SS Hyderabad Biryani,Chinese,Pizza,4,263.29,25.47,19.3,Wallet,Cancelled,26,3.5,1053.16,203.26,875.37,675.9,199.47
+FD10748,2025-04-26,Hyderabad,West,Spice Hub,Pizza,Meals,2,249.38,39.11,22.5,Credit Card,Out for Delivery,34,3.7,498.76,112.22,425.65,302.65,123.0
+FD10167,2025-04-27,Kochi,West,Royal Kitchen,South Indian,Noodles,3,466.3,64.88,9.6,Debit Card,Delivered,67,4.5,1398.9,134.29,1329.49,871.39,458.1
+FD10576,2025-04-27,Bengaluru,South,Pizza Corner,Healthy,Pizza,3,179.93,77.18,24.6,UPI,Out for Delivery,45,3.7,539.79,132.79,484.18,327.71,156.47
+FD10536,2025-04-27,Chennai,North,A2B,Chinese,Salad,2,486.64,17.93,14.9,Cash on Delivery,Cancelled,66,4.0,973.28,145.02,846.19,528.12,318.07
+FD10538,2025-04-28,Madurai,East,SS Hyderabad Biryani,Biryani,Salad,3,288.63,66.89,11.5,Wallet,Returned,45,4.3,865.89,99.58,833.2,573.43,259.77
+FD10163,2025-04-28,Chennai,South,Healthy Bowl,North Indian,Fried Rice,2,163.69,38.73,20.1,UPI,Delivered,73,4.6,327.38,65.8,300.31,178.53,121.78
+FD10453,2025-04-29,Hyderabad,East,Annapoorna,North Indian,Burger,1,523.64,50.49,13.3,Wallet,Delivered,45,4.5,523.64,69.64,504.49,326.9,177.59
+FD10431,2025-04-29,Hyderabad,North,Spice Hub,Fast Food,Burger,3,551.55,20.83,2.0,Debit Card,Delivered,20,3.7,1654.65,33.09,1642.39,1034.55,607.84
+FD10072,2025-04-30,Chennai,East,Healthy Bowl,South Indian,Pizza,2,488.26,25.39,26.2,Credit Card,Delivered,42,3.2,976.52,255.85,746.06,536.02,210.04
+FD10637,2025-04-30,Bengaluru,South,Domino's,Desserts,Cake,4,94.93,62.65,1.7,UPI,Delivered,46,3.9,379.72,6.46,435.91,310.54,125.37
+FD10430,2025-04-30,Madurai,West,SS Hyderabad Biryani,South Indian,Parotta,4,315.61,28.75,29.2,Credit Card,Delivered,38,4.8,1262.44,368.63,922.56,703.96,218.6
+FD10631,2025-04-30,Chennai,East,A2B,North Indian,Fried Rice,2,542.32,76.97,0.9,Credit Card,Delivered,74,3.2,1084.64,9.76,1151.85,861.67,290.18
+FD10733,2025-05-01,Hyderabad,East,Burger House,Desserts,Biryani,1,477.67,27.65,16.7,Wallet,Delivered,46,4.2,477.67,79.77,425.55,325.46,100.09
+FD10569,2025-05-01,Hyderabad,North,SS Hyderabad Biryani,Pizza,Meals,4,371.41,65.17,10.8,Wallet,Delivered,52,4.5,1485.64,160.45,1390.36,783.15,607.21
+FD10712,2025-05-01,Kochi,West,Domino's,Fast Food,Salad,3,617.82,75.15,16.1,UPI,Delivered,66,3.9,1853.46,298.41,1630.2,929.09,701.11
+FD10270,2025-05-02,Bengaluru,West,Domino's,South Indian,Meals,3,281.26,46.73,23.3,Credit Card,Delivered,72,4.8,843.78,196.6,693.91,457.46,236.45
+FD10723,2025-05-02,Bengaluru,East,A2B,Healthy,Cake,4,360.27,74.97,9.3,UPI,Cancelled,49,4.4,1441.08,134.02,1382.03,910.27,471.76
+FD10149,2025-05-02,Kochi,East,Annapoorna,Healthy,Cake,3,596.46,72.45,27.7,Credit Card,Delivered,64,2.8,1789.38,495.66,1366.17,937.75,428.42
+FD10769,2025-05-03,Madurai,East,A2B,Desserts,Biryani,4,142.89,73.57,23.7,Debit Card,Delivered,67,3.2,571.56,135.46,509.67,303.97,205.7
+FD10251,2025-05-03,Hyderabad,East,Royal Kitchen,Fast Food,Fried Rice,1,424.97,55.46,26.4,Cash on Delivery,Out for Delivery,57,4.1,424.97,112.19,368.24,286.46,81.78
+FD10468,2025-05-03,Bengaluru,South,Healthy Bowl,Chinese,Meals,4,395.79,61.22,14.9,Wallet,Delivered,19,3.5,1583.16,235.89,1408.49,1074.61,333.88
+FD10064,2025-05-04,Madurai,West,Food Street,Biryani,Dosa,3,157.05,66.86,2.6,Debit Card,Out for Delivery,33,4.3,471.15,12.25,525.76,327.33,198.43
+FD10085,2025-05-05,Coimbatore,East,Pizza Corner,Pizza,Cake,1,358.56,47.06,14.2,Credit Card,Out for Delivery,67,4.6,358.56,50.92,354.7,242.52,112.18
+FD10416,2025-05-05,Hyderabad,West,SS Hyderabad Biryani,South Indian,Cake,2,335.08,49.34,3.4,Wallet,Delivered,40,4.2,670.16,22.79,696.71,486.74,209.97
+FD10736,2025-05-05,Bengaluru,West,Pizza Corner,North Indian,Pizza,3,352.99,49.5,26.3,Debit Card,Out for Delivery,56,4.8,1058.97,278.51,829.96,528.72,301.24
+FD10337,2025-05-05,Chennai,North,A2B,Desserts,Pizza,2,89.31,71.6,7.8,Credit Card,Delivered,50,4.1,178.62,13.93,236.29,165.62,70.67
+FD10738,2025-05-05,Bengaluru,North,A2B,Pizza,Dosa,1,567.16,74.46,11.4,UPI,Delivered,21,3.1,567.16,64.66,576.96,397.19,179.77
+FD10244,2025-05-06,Coimbatore,South,Food Street,Fast Food,Burger,1,83.33,15.18,5.6,Credit Card,Cancelled,58,4.1,83.33,4.67,93.84,69.16,24.68
+FD10231,2025-05-07,Coimbatore,East,A2B,Pizza,Cake,3,590.9,39.96,3.5,Cash on Delivery,Delivered,38,4.5,1772.7,62.04,1750.62,1267.89,482.73
+FD10319,2025-05-07,Hyderabad,East,Annapoorna,Chinese,Dosa,2,501.02,55.26,26.1,Wallet,Delivered,28,4.4,1002.04,261.53,795.77,564.87,230.9
+FD10210,2025-05-08,Madurai,East,Spice Hub,Biryani,Dosa,3,548.32,60.96,10.6,UPI,Delivered,22,3.4,1644.96,174.37,1531.55,1054.86,476.69
+FD10797,2025-05-08,Hyderabad,West,Royal Kitchen,Biryani,Dosa,1,585.82,29.48,20.2,Cash on Delivery,Delivered,37,3.2,585.82,118.34,496.96,303.61,193.35
+FD10202,2025-05-09,Madurai,South,SS Hyderabad Biryani,Biryani,Salad,4,290.21,79.81,15.4,Credit Card,Delivered,61,4.0,1160.84,178.77,1061.88,593.2,468.68
+FD10342,2025-05-10,Chennai,South,Healthy Bowl,Pizza,Cake,4,537.02,42.34,26.6,Debit Card,Delivered,43,3.1,2148.08,571.39,1619.03,956.27,662.76
+FD10777,2025-05-10,Coimbatore,West,Healthy Bowl,Fast Food,Fried Rice,3,89.83,26.38,6.5,Wallet,Delivered,46,3.3,269.49,17.52,278.35,214.13,64.22
+FD10069,2025-05-11,Coimbatore,West,SS Hyderabad Biryani,Desserts,Noodles,2,530.37,18.47,6.8,Credit Card,Delivered,25,4.3,1060.74,72.13,1007.08,578.02,429.06
+FD10098,2025-05-12,Chennai,West,Burger House,Fast Food,Salad,3,241.51,55.03,23.3,Debit Card,Delivered,62,4.5,724.53,168.82,610.74,414.93,195.81
+FD10377,2025-05-12,Coimbatore,North,A2B,Fast Food,Salad,4,344.44,15.06,9.1,Debit Card,Delivered,46,4.2,1377.76,125.38,1267.44,968.44,299.0
+FD10666,2025-05-13,Kochi,South,SS Hyderabad Biryani,Biryani,Salad,1,143.85,78.0,13.9,Wallet,Cancelled,49,3.6,143.85,20.0,201.85,149.67,52.18
+FD10652,2025-05-13,Kochi,South,Pizza Corner,Fast Food,Biryani,1,459.76,52.58,1.3,Debit Card,Out for Delivery,64,4.3,459.76,5.98,506.36,393.85,112.51
+FD10275,2025-05-14,Kochi,South,Pizza Corner,Pizza,Biryani,1,647.25,24.16,14.1,Debit Card,Out for Delivery,27,3.6,647.25,91.26,580.15,333.89,246.26
+FD10476,2025-05-14,Chennai,East,Pizza Corner,Biryani,Dosa,3,325.22,35.38,22.3,Credit Card,Returned,28,5.0,975.66,217.57,793.47,518.98,274.49
+FD10727,2025-05-14,Chennai,North,Annapoorna,Pizza,Cake,2,208.34,58.25,9.6,Cash on Delivery,Delivered,42,4.1,416.68,40.0,434.93,327.76,107.17
+FD10287,2025-05-14,Madurai,North,Pizza Corner,Biryani,Dosa,4,533.45,62.8,19.1,UPI,Delivered,66,5.0,2133.8,407.56,1789.04,1331.33,457.71
+FD10121,2025-05-15,Kochi,West,Domino's,Desserts,Cake,4,380.84,52.54,3.9,Credit Card,Delivered,27,3.4,1523.36,59.41,1516.49,924.77,591.72
+FD10107,2025-05-16,Coimbatore,North,Spice Hub,Healthy,Dosa,2,140.67,28.91,25.4,Wallet,Delivered,42,3.6,281.34,71.46,238.79,178.03,60.76
+FD10402,2025-05-16,Kochi,West,Domino's,Biryani,Meals,2,403.58,42.1,27.1,Wallet,Delivered,50,4.1,807.16,218.74,630.52,454.84,175.68
+FD10224,2025-05-16,Kochi,South,SS Hyderabad Biryani,Healthy,Dosa,2,268.11,31.74,12.6,Credit Card,Delivered,39,4.0,536.22,67.56,500.4,345.29,155.11
+FD10101,2025-05-17,Madurai,East,Royal Kitchen,South Indian,Dosa,1,329.0,41.11,0.4,Wallet,Delivered,59,4.3,329.0,1.32,368.79,273.9,94.89
+FD10635,2025-05-17,Coimbatore,North,Food Street,Healthy,Fried Rice,2,509.86,32.02,29.7,Credit Card,Delivered,18,4.4,1019.72,302.86,748.88,554.45,194.43
+FD10352,2025-05-17,Hyderabad,West,Royal Kitchen,South Indian,Salad,1,218.17,67.24,23.3,UPI,Delivered,29,5.0,218.17,50.83,234.58,132.83,101.75
+FD10036,2025-05-18,Hyderabad,East,Burger House,South Indian,Cake,4,172.26,15.37,26.0,Debit Card,Delivered,55,4.1,689.04,179.15,525.26,402.01,123.25
+FD10311,2025-05-20,Coimbatore,North,Spice Hub,Biryani,Noodles,2,532.49,48.33,10.1,Credit Card,Delivered,72,3.8,1064.98,107.56,1005.75,726.21,279.54
+FD10708,2025-05-20,Madurai,South,Domino's,North Indian,Meals,3,367.58,48.93,1.4,Cash on Delivery,Delivered,43,4.3,1102.74,15.44,1136.23,780.98,355.25
+FD10574,2025-05-22,Coimbatore,East,Burger House,Fast Food,Fried Rice,2,607.74,62.4,0.5,UPI,Delivered,20,3.3,1215.48,6.08,1271.8,802.41,469.39
+FD10084,2025-05-23,Coimbatore,South,Royal Kitchen,Desserts,Parotta,3,559.68,66.32,13.4,Cash on Delivery,Returned,67,5.0,1679.04,224.99,1520.37,895.29,625.08
+FD10732,2025-05-23,Bengaluru,West,Burger House,Pizza,Cake,1,607.55,36.35,19.2,Cash on Delivery,Delivered,45,5.0,607.55,116.65,527.25,379.16,148.09
+FD10201,2025-05-24,Coimbatore,North,SS Hyderabad Biryani,Desserts,Salad,3,211.87,41.42,11.0,Debit Card,Cancelled,33,3.9,635.61,69.92,607.11,437.95,169.16
+FD10212,2025-05-25,Kochi,South,Royal Kitchen,South Indian,Noodles,4,126.33,55.58,6.2,Cash on Delivery,Cancelled,26,4.6,505.32,31.33,529.57,307.05,222.52
+FD10451,2025-05-25,Coimbatore,North,Food Street,Healthy,Fried Rice,2,126.59,35.52,15.5,Debit Card,Delivered,48,3.5,253.18,39.24,249.46,192.94,56.52
+FD10450,2025-05-26,Coimbatore,North,SS Hyderabad Biryani,Fast Food,Meals,2,173.64,69.11,29.9,Wallet,Delivered,64,3.8,347.28,103.84,312.55,193.54,119.01
+FD10382,2025-05-28,Chennai,South,A2B,North Indian,Noodles,1,449.62,44.21,1.4,Wallet,Delivered,56,3.8,449.62,6.29,487.54,288.73,198.81
+FD10750,2025-05-28,Kochi,West,Food Street,Pizza,Meals,3,434.66,39.37,4.7,Wallet,Out for Delivery,42,4.7,1303.98,61.29,1282.06,740.62,541.44
+FD10105,2025-05-30,Kochi,North,SS Hyderabad Biryani,North Indian,Pizza,3,396.38,72.4,13.3,Debit Card,Delivered,56,3.7,1189.14,158.16,1103.38,665.66,437.72
+FD10597,2025-05-30,Madurai,South,Burger House,Healthy,Biryani,3,342.31,27.57,2.6,Debit Card,Delivered,36,5.0,1026.93,26.7,1027.8,584.34,443.46
+FD10667,2025-05-30,Coimbatore,East,Royal Kitchen,Chinese,Meals,3,589.08,29.38,1.9,Wallet,Delivered,32,4.3,1767.24,33.58,1763.04,1181.58,581.46
+FD10135,2025-05-30,Kochi,East,SS Hyderabad Biryani,Pizza,Dosa,3,172.84,66.3,22.6,Wallet,Cancelled,36,4.5,518.52,117.19,467.63,335.34,132.29
+FD10269,2025-05-30,Hyderabad,East,Burger House,Biryani,Meals,2,81.58,47.18,0.0,Credit Card,Delivered,47,3.8,163.16,0.0,210.34,145.94,64.4
+FD10056,2025-05-30,Bengaluru,South,Healthy Bowl,Pizza,Burger,4,363.27,33.46,12.4,UPI,Delivered,24,3.9,1453.08,180.18,1306.36,895.77,410.59
+FD10420,2025-05-31,Kochi,East,Healthy Bowl,North Indian,Fried Rice,2,574.26,15.84,4.0,Wallet,Returned,24,4.8,1148.52,45.94,1118.42,792.7,325.72
+FD10535,2025-05-31,Coimbatore,West,Pizza Corner,Fast Food,Cake,1,622.47,20.82,1.8,Debit Card,Delivered,66,4.2,622.47,11.2,632.09,450.78,181.31
+FD10489,2025-05-31,Coimbatore,North,Pizza Corner,Healthy,Dosa,3,437.21,43.42,23.7,Cash on Delivery,Delivered,23,3.9,1311.63,310.86,1044.19,602.38,441.81
+FD10052,2025-06-01,Kochi,South,Royal Kitchen,Fast Food,Fried Rice,1,561.31,31.47,19.6,Wallet,Cancelled,18,3.9,561.31,110.02,482.76,367.16,115.6
+FD10677,2025-06-01,Coimbatore,West,Spice Hub,Biryani,Parotta,4,479.26,74.77,19.7,Cash on Delivery,Delivered,50,4.2,1917.04,377.66,1614.15,1187.71,426.44
+FD10026,2025-06-02,Chennai,West,A2B,Biryani,Salad,3,354.22,21.85,25.2,Debit Card,Delivered,48,3.6,1062.66,267.79,816.72,496.39,320.33
+FD10332,2025-06-02,Kochi,North,Burger House,Pizza,Dosa,2,575.75,62.94,12.3,Credit Card,Delivered,65,3.6,1151.5,141.63,1072.81,640.35,432.46
+FD10183,2025-06-03,Bengaluru,East,SS Hyderabad Biryani,Chinese,Parotta,1,499.54,47.56,16.1,Cash on Delivery,Delivered,40,4.2,499.54,80.43,466.67,274.98,191.69
+FD10509,2025-06-04,Coimbatore,West,Food Street,South Indian,Burger,2,408.17,26.52,14.7,UPI,Delivered,36,4.5,816.34,120.0,722.86,489.53,233.33
+FD10669,2025-06-05,Hyderabad,East,Royal Kitchen,North Indian,Dosa,1,414.21,66.74,27.5,UPI,Delivered,56,4.2,414.21,113.91,367.04,265.8,101.24
+FD10550,2025-06-05,Madurai,South,Annapoorna,Fast Food,Salad,3,534.45,24.79,24.1,Wallet,Out for Delivery,53,3.9,1603.35,386.41,1241.73,854.52,387.21
+FD10432,2025-06-06,Madurai,North,Royal Kitchen,Healthy,Fried Rice,2,600.1,23.2,0.1,Cash on Delivery,Delivered,50,3.7,1200.2,1.2,1222.2,834.76,387.44
+FD10191,2025-06-06,Coimbatore,North,Food Street,Desserts,Fried Rice,1,195.84,44.44,9.2,Debit Card,Delivered,74,4.9,195.84,18.02,222.26,155.42,66.84
+FD10277,2025-06-07,Bengaluru,East,Annapoorna,Healthy,Noodles,2,253.42,79.23,14.3,Wallet,Delivered,56,4.5,506.84,72.48,513.59,392.31,121.28
+FD10421,2025-06-08,Madurai,South,Spice Hub,Desserts,Biryani,2,640.72,31.77,6.1,Cash on Delivery,Out for Delivery,52,4.0,1281.44,78.17,1235.04,938.38,296.66
+FD10143,2025-06-08,Madurai,North,Burger House,Desserts,Salad,2,265.98,69.05,8.9,Wallet,Delivered,34,4.7,531.96,47.34,553.67,410.15,143.52
+FD10357,2025-06-10,Coimbatore,East,Spice Hub,Pizza,Dosa,2,313.05,19.27,4.4,UPI,Out for Delivery,60,4.4,626.1,27.55,617.82,435.06,182.76
+FD10302,2025-06-10,Chennai,West,A2B,Desserts,Dosa,4,291.55,23.44,4.1,Wallet,Out for Delivery,50,3.7,1166.2,47.81,1141.83,629.48,512.35
+FD10215,2025-06-10,Bengaluru,East,Pizza Corner,Chinese,Dosa,3,315.93,16.51,16.6,Debit Card,Cancelled,31,4.4,947.79,157.33,806.97,611.26,195.71
+FD10165,2025-06-11,Madurai,West,Healthy Bowl,North Indian,Dosa,4,91.04,68.91,23.3,Wallet,Delivered,34,2.7,364.16,84.85,348.22,252.73,95.49
+FD10184,2025-06-11,Chennai,North,Royal Kitchen,Biryani,Salad,2,414.85,56.1,10.5,Cash on Delivery,Delivered,65,5.0,829.7,87.12,798.68,565.7,232.98
+FD10424,2025-06-12,Hyderabad,North,Healthy Bowl,North Indian,Cake,3,501.9,46.12,8.3,UPI,Delivered,44,3.5,1505.7,124.97,1426.85,1103.53,323.32
+FD10300,2025-06-13,Chennai,East,Burger House,Chinese,Burger,3,632.94,55.29,14.8,Credit Card,Delivered,58,3.5,1898.82,281.03,1673.08,1058.4,614.68
+FD10429,2025-06-13,Madurai,East,Burger House,Chinese,Parotta,2,495.12,32.49,9.9,Wallet,Out for Delivery,68,3.2,990.24,98.03,924.7,666.99,257.71
+FD10495,2025-06-13,Coimbatore,West,Food Street,Biryani,Dosa,4,121.9,75.09,1.3,UPI,Cancelled,42,4.8,487.6,6.34,556.35,371.35,185.0
+FD10372,2025-06-14,Bengaluru,North,Spice Hub,Pizza,Parotta,1,154.86,32.19,23.8,UPI,Delivered,65,4.9,154.86,36.86,150.19,115.77,34.42
+FD10378,2025-06-15,Chennai,West,Pizza Corner,Chinese,Pizza,4,336.21,76.56,24.6,Credit Card,Out for Delivery,64,4.3,1344.84,330.83,1090.57,720.32,370.25
+FD10486,2025-06-15,Hyderabad,North,Royal Kitchen,Pizza,Noodles,3,523.8,20.51,12.1,Debit Card,Delivered,43,3.9,1571.4,190.14,1401.77,963.35,438.42
+FD10448,2025-06-16,Coimbatore,South,A2B,Fast Food,Meals,4,174.16,42.66,16.0,Debit Card,Delivered,51,3.9,696.64,111.46,627.84,443.68,184.16
+FD10103,2025-06-16,Madurai,North,Domino's,Biryani,Noodles,1,276.4,76.99,6.3,Debit Card,Out for Delivery,47,3.3,276.4,17.41,335.98,204.84,131.14
+FD10729,2025-06-16,Bengaluru,North,SS Hyderabad Biryani,Fast Food,Salad,4,308.79,31.06,5.3,Cash on Delivery,Delivered,65,4.6,1235.16,65.46,1200.76,767.49,433.27
+FD10014,2025-06-17,Bengaluru,West,Annapoorna,Fast Food,Cake,4,326.68,38.55,24.4,Wallet,Delivered,73,4.4,1306.72,318.84,1026.43,616.87,409.56
+FD10791,2025-06-17,Chennai,East,SS Hyderabad Biryani,North Indian,Cake,4,620.52,28.47,26.0,UPI,Delivered,52,4.0,2482.08,645.34,1865.21,1109.27,755.94
+FD10508,2025-06-19,Madurai,East,A2B,Healthy,Salad,2,297.08,27.68,26.9,Credit Card,Delivered,58,4.3,594.16,159.83,462.01,337.96,124.05
+FD10693,2025-06-19,Hyderabad,East,Burger House,Chinese,Salad,3,645.82,24.36,11.1,UPI,Returned,60,3.9,1937.46,215.06,1746.76,1049.21,697.55
+FD10112,2025-06-19,Coimbatore,East,Spice Hub,Desserts,Parotta,4,218.63,67.85,11.1,Cash on Delivery,Cancelled,52,2.7,874.52,97.07,845.3,591.79,253.51
+FD10446,2025-06-20,Coimbatore,East,Domino's,North Indian,Biryani,3,350.43,20.74,24.8,UPI,Delivered,51,4.3,1051.29,260.72,811.31,535.69,275.62
+FD10314,2025-06-21,Kochi,West,Healthy Bowl,North Indian,Salad,4,119.8,29.33,8.9,UPI,Delivered,27,4.4,479.2,42.65,465.88,309.49,156.39
+FD10463,2025-06-22,Coimbatore,South,Healthy Bowl,Fast Food,Noodles,4,273.81,38.18,0.1,Cash on Delivery,Delivered,53,4.4,1095.24,1.1,1132.32,849.82,282.5
+FD10673,2025-06-23,Hyderabad,North,Royal Kitchen,Pizza,Burger,2,350.28,43.48,23.9,Credit Card,Delivered,46,3.9,700.56,167.43,576.61,327.37,249.24
+FD10435,2025-06-23,Chennai,North,SS Hyderabad Biryani,Desserts,Dosa,2,604.14,77.25,10.8,UPI,Returned,57,4.4,1208.28,130.49,1155.04,796.69,358.35
+FD10458,2025-06-24,Chennai,East,Domino's,Fast Food,Pizza,3,197.37,41.53,25.6,Debit Card,Delivered,27,3.8,592.11,151.58,482.06,328.8,153.26
+FD10504,2025-06-24,Bengaluru,East,Royal Kitchen,Pizza,Cake,1,182.45,23.97,4.3,UPI,Out for Delivery,46,3.7,182.45,7.85,198.57,142.66,55.91
+FD10380,2025-06-24,Madurai,East,A2B,Desserts,Salad,4,543.5,56.0,27.2,UPI,Out for Delivery,33,3.7,2174.0,591.33,1638.67,997.04,641.63
+FD10758,2025-06-24,Madurai,South,Healthy Bowl,Fast Food,Cake,3,473.62,74.45,27.0,Cash on Delivery,Cancelled,49,3.4,1420.86,383.63,1111.68,699.38,412.3
+FD10705,2025-06-24,Chennai,East,Burger House,Biryani,Biryani,1,262.33,29.96,8.7,Wallet,Delivered,31,5.0,262.33,22.82,269.47,177.54,91.93
+FD10530,2025-06-24,Chennai,West,Spice Hub,Desserts,Pizza,1,338.05,20.47,26.3,Wallet,Delivered,59,4.2,338.05,88.91,269.61,182.64,86.97
+FD10001,2025-06-25,Madurai,South,Spice Hub,Chinese,Noodles,4,603.75,28.08,22.5,Credit Card,Delivered,54,3.4,2415.0,543.38,1899.7,1448.7,451.0
+FD10133,2025-06-25,Bengaluru,East,Pizza Corner,Chinese,Salad,2,130.5,48.51,2.8,Credit Card,Delivered,54,4.2,261.0,7.31,302.2,178.32,123.88
+FD10768,2025-06-26,Chennai,East,Domino's,South Indian,Cake,1,243.8,31.61,10.1,UPI,Returned,23,4.4,243.8,24.62,250.79,157.29,93.5
+FD10205,2025-06-26,Madurai,South,Annapoorna,North Indian,Fried Rice,3,276.04,65.95,12.1,Credit Card,Delivered,48,4.9,828.12,100.2,793.87,598.45,195.42
+FD10209,2025-06-26,Kochi,East,Spice Hub,Biryani,Parotta,4,511.71,46.54,27.6,Debit Card,Delivered,53,4.2,2046.84,564.93,1528.45,1043.69,484.76
+FD10228,2025-06-26,Hyderabad,South,Burger House,Fast Food,Biryani,3,499.85,27.43,3.9,Debit Card,Out for Delivery,23,4.7,1499.55,58.48,1468.5,961.32,507.18
+FD10334,2025-06-27,Coimbatore,South,Burger House,Biryani,Parotta,1,583.58,21.37,14.0,Debit Card,Delivered,74,4.5,583.58,81.7,523.25,372.49,150.76
+FD10603,2025-06-27,Chennai,South,Domino's,Chinese,Pizza,3,439.21,37.28,25.4,Cash on Delivery,Delivered,20,3.1,1317.63,334.68,1020.23,722.44,297.79
+FD10745,2025-06-27,Chennai,South,Pizza Corner,North Indian,Biryani,4,499.69,55.1,9.6,Debit Card,Out for Delivery,26,3.2,1998.76,191.88,1861.98,1250.94,611.04
+FD10227,2025-06-28,Hyderabad,East,Burger House,Pizza,Salad,4,376.15,34.55,9.1,Debit Card,Delivered,53,3.3,1504.6,136.92,1402.23,985.79,416.44
+FD10348,2025-06-28,Bengaluru,West,Pizza Corner,Fast Food,Pizza,3,351.04,30.77,19.0,Cash on Delivery,Out for Delivery,56,2.9,1053.12,200.09,883.8,555.73,328.07
+FD10383,2025-06-28,Chennai,West,Burger House,Healthy,Noodles,2,113.9,34.09,1.6,Debit Card,Returned,69,3.5,227.8,3.64,258.25,143.36,114.89
+FD10111,2025-06-30,Bengaluru,North,Annapoorna,Fast Food,Biryani,2,359.05,38.12,7.2,Credit Card,Delivered,56,4.9,718.1,51.7,704.52,508.05,196.47
+FD10790,2025-06-30,Madurai,West,Domino's,Fast Food,Noodles,3,323.83,76.15,18.2,Debit Card,Cancelled,71,4.6,971.49,176.81,870.83,482.87,387.96
+FD10618,2025-06-30,Madurai,South,Pizza Corner,Chinese,Fried Rice,2,321.07,64.77,29.8,Debit Card,Delivered,37,4.8,642.14,191.36,515.55,306.99,208.56
+FD10413,2025-06-30,Coimbatore,West,Burger House,Biryani,Meals,4,533.23,64.33,27.9,Wallet,Delivered,20,5.0,2132.92,595.08,1602.17,1099.4,502.77
+FD10481,2025-06-30,Hyderabad,North,Annapoorna,Healthy,Salad,2,305.91,24.55,20.0,Wallet,Cancelled,56,3.4,611.82,122.36,514.01,316.74,197.27
+FD10254,2025-06-30,Bengaluru,North,A2B,Healthy,Meals,4,359.2,30.81,7.4,Wallet,Delivered,24,4.1,1436.8,106.32,1361.29,997.3,363.99
+FD10259,2025-07-01,Madurai,North,Healthy Bowl,Desserts,Biryani,4,219.34,23.97,21.6,Wallet,Delivered,71,3.8,877.36,189.51,711.82,538.3,173.52
+FD10363,2025-07-01,Madurai,South,A2B,South Indian,Fried Rice,1,322.11,48.14,2.3,Wallet,Delivered,22,3.3,322.11,7.41,362.84,216.07,146.77
+FD10578,2025-07-02,Madurai,East,SS Hyderabad Biryani,Desserts,Parotta,2,581.47,75.28,2.5,Wallet,Delivered,52,4.8,1162.94,29.07,1209.15,671.76,537.39
+FD10132,2025-07-02,Madurai,South,Annapoorna,Biryani,Cake,2,449.54,43.61,8.9,Credit Card,Out for Delivery,51,2.7,899.08,80.02,862.67,585.12,277.55
+FD10174,2025-07-03,Bengaluru,South,Burger House,South Indian,Fried Rice,4,138.7,52.17,15.5,Debit Card,Delivered,36,4.2,554.8,85.99,520.98,358.72,162.26
+FD10291,2025-07-03,Madurai,North,A2B,Fast Food,Parotta,4,433.38,67.09,20.5,Debit Card,Out for Delivery,25,4.4,1733.52,355.37,1445.24,957.57,487.67
+FD10514,2025-07-03,Chennai,West,SS Hyderabad Biryani,North Indian,Biryani,2,486.73,73.2,20.9,Credit Card,Delivered,23,3.3,973.46,203.45,843.21,470.75,372.46
+FD10027,2025-07-03,Hyderabad,North,Food Street,South Indian,Biryani,3,478.27,35.66,9.8,Debit Card,Delivered,32,4.4,1434.81,140.61,1329.86,741.15,588.71
+FD10148,2025-07-03,Hyderabad,East,Healthy Bowl,South Indian,Cake,2,438.59,63.24,20.3,Debit Card,Delivered,34,5.0,877.18,178.07,762.35,472.88,289.47
+FD10258,2025-07-04,Chennai,East,Annapoorna,Chinese,Meals,4,594.67,18.79,8.1,Cash on Delivery,Delivered,26,3.7,2378.68,192.67,2204.8,1355.89,848.91
+FD10776,2025-07-04,Coimbatore,South,Domino's,North Indian,Biryani,3,425.65,22.15,15.6,Cash on Delivery,Delivered,26,4.7,1276.95,199.2,1099.9,638.46,461.44
+FD10268,2025-07-04,Chennai,East,Food Street,North Indian,Noodles,1,330.86,75.35,13.8,Wallet,Delivered,43,3.4,330.86,45.66,360.55,198.73,161.82
+FD10008,2025-07-05,Kochi,East,SS Hyderabad Biryani,Desserts,Burger,3,298.71,43.49,11.2,Wallet,Delivered,36,4.1,896.13,100.37,839.25,630.7,208.55
+FD10066,2025-07-05,Chennai,West,Healthy Bowl,South Indian,Burger,3,641.26,56.02,6.7,Debit Card,Delivered,60,3.9,1923.78,128.89,1850.91,1332.12,518.79
+FD10153,2025-07-06,Hyderabad,South,Burger House,Biryani,Burger,1,351.61,19.13,10.6,UPI,Delivered,51,3.2,351.61,37.27,333.47,250.4,83.07
+FD10469,2025-07-07,Coimbatore,South,Annapoorna,Biryani,Burger,4,190.71,26.3,20.7,Debit Card,Cancelled,66,2.7,762.84,157.91,631.23,387.3,243.93
+FD10687,2025-07-08,Coimbatore,West,Pizza Corner,South Indian,Cake,3,507.85,63.48,22.2,Debit Card,Out for Delivery,18,5.0,1523.55,338.23,1248.8,856.43,392.37
+FD10030,2025-07-09,Bengaluru,North,A2B,Fast Food,Burger,2,615.91,77.33,23.5,Wallet,Delivered,71,3.9,1231.82,289.48,1019.67,562.88,456.79
+FD10539,2025-07-09,Coimbatore,South,Domino's,Healthy,Meals,3,633.72,29.18,17.8,UPI,Returned,27,4.1,1901.16,338.41,1591.93,1185.96,405.97
+FD10294,2025-07-10,Hyderabad,East,Domino's,Biryani,Meals,1,177.22,16.75,22.8,UPI,Out for Delivery,56,4.7,177.22,40.41,153.56,114.2,39.36
+FD10117,2025-07-10,Bengaluru,East,A2B,Desserts,Biryani,3,345.05,61.25,8.3,Debit Card,Delivered,20,4.9,1035.15,85.92,1010.48,779.96,230.52
+FD10725,2025-07-11,Coimbatore,West,Annapoorna,Biryani,Biryani,3,372.15,61.89,16.9,Cash on Delivery,Delivered,64,4.4,1116.45,188.68,989.66,746.37,243.29
+FD10656,2025-07-11,Bengaluru,West,A2B,Chinese,Pizza,3,602.08,54.64,10.0,Credit Card,Delivered,29,5.0,1806.24,180.62,1680.26,1163.28,516.98
+FD10023,2025-07-11,Coimbatore,East,Pizza Corner,Healthy,Pizza,4,288.41,18.65,9.8,Wallet,Delivered,39,3.2,1153.64,113.06,1059.23,592.97,466.26
+FD10658,2025-07-12,Hyderabad,West,Domino's,Fast Food,Biryani,4,434.84,38.4,27.1,UPI,Delivered,61,3.2,1739.36,471.37,1306.39,1015.96,290.43
+FD10042,2025-07-12,Coimbatore,North,SS Hyderabad Biryani,Healthy,Cake,3,538.07,23.15,10.0,Credit Card,Out for Delivery,45,4.5,1614.21,161.42,1475.94,969.83,506.11
+FD10581,2025-07-13,Bengaluru,South,Food Street,Healthy,Dosa,2,278.91,53.06,19.8,Cash on Delivery,Delivered,64,4.3,557.82,110.45,500.43,370.86,129.57
+FD10678,2025-07-14,Bengaluru,West,Healthy Bowl,South Indian,Pizza,1,97.81,60.88,7.7,UPI,Returned,43,3.8,97.81,7.53,151.16,110.84,40.32
+FD10350,2025-07-14,Chennai,East,Spice Hub,North Indian,Noodles,1,92.75,32.54,19.1,Credit Card,Returned,69,4.9,92.75,17.72,107.57,65.56,42.01
+FD10038,2025-07-15,Hyderabad,East,A2B,Fast Food,Salad,2,180.03,72.89,28.6,UPI,Delivered,64,2.6,360.06,102.98,329.97,232.73,97.24
+FD10361,2025-07-15,Coimbatore,North,Food Street,North Indian,Pizza,4,475.45,23.45,25.8,Cash on Delivery,Delivered,35,4.5,1901.8,490.66,1434.59,1010.81,423.78
+FD10399,2025-07-15,Chennai,West,Spice Hub,Biryani,Meals,3,303.19,15.29,15.6,Cash on Delivery,Cancelled,22,5.0,909.57,141.89,782.97,458.68,324.29
+FD10336,2025-07-15,Hyderabad,South,Royal Kitchen,Healthy,Biryani,1,530.4,24.82,14.4,Cash on Delivery,Delivered,66,3.8,530.4,76.38,478.84,301.14,177.7
+FD10002,2025-07-16,Coimbatore,West,SS Hyderabad Biryani,South Indian,Biryani,3,499.53,55.37,12.7,UPI,Cancelled,53,4.4,1498.59,190.32,1363.64,992.91,370.73
+FD10109,2025-07-17,Chennai,East,Annapoorna,Pizza,Meals,4,141.95,74.14,5.1,Cash on Delivery,Delivered,26,4.5,567.8,28.96,612.98,466.14,146.84
+FD10374,2025-07-17,Madurai,South,Annapoorna,Biryani,Cake,4,250.11,57.3,15.4,Credit Card,Delivered,36,3.9,1000.44,154.07,903.67,645.46,258.21
+FD10304,2025-07-18,Hyderabad,East,Healthy Bowl,North Indian,Meals,2,506.91,75.21,12.2,UPI,Delivered,66,3.8,1013.82,123.69,965.34,562.46,402.88
+FD10104,2025-07-18,Coimbatore,East,Annapoorna,Biryani,Noodles,4,104.2,75.62,12.4,Debit Card,Delivered,73,4.4,416.8,51.68,440.74,268.32,172.42
+FD10619,2025-07-19,Bengaluru,North,A2B,Chinese,Salad,2,399.45,36.05,28.3,Wallet,Delivered,62,4.4,798.9,226.09,608.86,419.52,189.34
+FD10683,2025-07-19,Coimbatore,North,Royal Kitchen,Desserts,Fried Rice,3,628.4,15.79,17.5,Wallet,Delivered,25,4.3,1885.2,329.91,1571.08,959.98,611.1
+FD10151,2025-07-19,Madurai,South,Pizza Corner,North Indian,Burger,4,171.43,15.52,21.6,Cash on Delivery,Delivered,64,4.5,685.72,148.12,553.12,317.23,235.89
+FD10316,2025-07-19,Coimbatore,East,Royal Kitchen,South Indian,Biryani,4,315.62,57.93,24.6,Credit Card,Delivered,46,3.9,1262.48,310.57,1009.84,771.42,238.42
+FD10528,2025-07-20,Bengaluru,North,Burger House,North Indian,Salad,3,638.19,24.72,3.9,UPI,Delivered,52,3.9,1914.57,74.67,1864.62,1429.01,435.61
+FD10033,2025-07-21,Coimbatore,West,Annapoorna,Healthy,Burger,2,89.6,43.58,14.0,UPI,Delivered,28,3.6,179.2,25.09,197.69,147.49,50.2
+FD10599,2025-07-22,Madurai,East,Burger House,Desserts,Parotta,2,541.47,64.24,2.8,Wallet,Delivered,18,3.6,1082.94,30.32,1116.86,754.54,362.32
+FD10762,2025-07-22,Madurai,North,Pizza Corner,Fast Food,Salad,2,524.2,71.59,4.2,Cash on Delivery,Delivered,57,4.1,1048.4,44.03,1075.96,654.49,421.47
+FD10341,2025-07-23,Kochi,North,Domino's,Biryani,Burger,3,554.37,19.81,26.8,Cash on Delivery,Out for Delivery,25,3.9,1663.11,445.71,1237.21,828.65,408.56
+FD10074,2025-07-23,Coimbatore,West,Annapoorna,Biryani,Cake,4,440.19,26.38,23.2,UPI,Delivered,60,3.4,1760.76,408.5,1378.64,949.92,428.72
+FD10722,2025-07-23,Chennai,West,Food Street,Fast Food,Pizza,2,368.08,53.88,2.3,Wallet,Out for Delivery,60,4.3,736.16,16.93,773.11,548.94,224.17
+FD10282,2025-07-25,Coimbatore,West,Royal Kitchen,Pizza,Cake,1,233.59,26.98,16.8,Credit Card,Delivered,73,3.8,233.59,39.24,221.33,145.67,75.66
+FD10534,2025-07-26,Bengaluru,East,Food Street,South Indian,Parotta,4,574.25,62.55,8.9,Cash on Delivery,Out for Delivery,24,4.6,2297.0,204.43,2155.12,1538.99,616.13
+FD10293,2025-07-26,Coimbatore,East,Burger House,South Indian,Burger,2,257.68,25.59,13.2,Credit Card,Returned,55,3.1,515.36,68.03,472.92,301.4,171.52
+FD10257,2025-07-27,Hyderabad,East,Royal Kitchen,Healthy,Noodles,4,285.7,36.04,4.3,Cash on Delivery,Delivered,35,4.8,1142.8,49.14,1129.7,795.79,333.91
+FD10516,2025-07-27,Madurai,South,SS Hyderabad Biryani,North Indian,Dosa,4,135.96,45.28,28.4,Debit Card,Delivered,24,4.9,543.84,154.45,434.67,274.5,160.17
+FD10665,2025-07-27,Chennai,North,Burger House,Chinese,Salad,4,110.54,76.01,14.7,Cash on Delivery,Out for Delivery,56,3.8,442.16,65.0,453.17,279.38,173.79
+FD10327,2025-07-27,Coimbatore,South,Royal Kitchen,Chinese,Dosa,3,641.23,64.94,27.9,Wallet,Out for Delivery,71,4.1,1923.69,536.71,1451.92,1085.87,366.05
+FD10181,2025-07-28,Chennai,East,Food Street,Pizza,Fried Rice,3,294.07,39.7,21.0,UPI,Delivered,50,5.0,882.21,185.26,736.65,479.17,257.48
+FD10775,2025-07-29,Bengaluru,East,SS Hyderabad Biryani,Pizza,Fried Rice,2,630.26,54.75,14.2,UPI,Delivered,55,2.8,1260.52,178.99,1136.28,636.85,499.43
+FD10108,2025-07-29,Coimbatore,East,Healthy Bowl,Healthy,Pizza,1,520.1,20.1,29.8,Debit Card,Delivered,32,4.5,520.1,154.99,385.21,272.04,113.17
+FD10734,2025-07-29,Bengaluru,North,Spice Hub,Fast Food,Noodles,1,291.03,62.22,27.8,Debit Card,Delivered,28,4.3,291.03,80.91,272.34,166.7,105.64
+FD10604,2025-07-30,Chennai,South,Annapoorna,South Indian,Cake,1,399.68,67.41,0.4,Debit Card,Out for Delivery,55,4.0,399.68,1.6,465.49,286.3,179.19
+FD10752,2025-07-30,Coimbatore,East,Domino's,Desserts,Dosa,2,292.58,74.44,8.4,Debit Card,Delivered,52,4.4,585.16,49.15,610.45,383.33,227.12
+FD10203,2025-07-30,Madurai,South,Annapoorna,Chinese,Cake,3,449.06,48.4,22.2,Credit Card,Delivered,22,3.6,1347.18,299.07,1096.51,698.57,397.94
+FD10232,2025-07-31,Madurai,South,Domino's,Healthy,Biryani,4,481.05,70.74,1.9,Cash on Delivery,Delivered,48,4.0,1924.2,36.56,1958.38,1201.37,757.01
+FD10005,2025-07-31,Coimbatore,North,Royal Kitchen,South Indian,Burger,3,292.48,67.09,2.8,Credit Card,Out for Delivery,45,4.3,877.44,24.57,919.96,675.22,244.74
+FD10346,2025-07-31,Hyderabad,East,Healthy Bowl,Fast Food,Biryani,1,409.15,49.42,18.6,Credit Card,Delivered,30,5.0,409.15,76.1,382.47,228.9,153.57
+FD10305,2025-08-01,Hyderabad,North,Food Street,Healthy,Pizza,3,218.55,55.29,23.3,Cash on Delivery,Delivered,40,3.9,655.65,152.77,558.17,427.77,130.4
+FD10694,2025-08-01,Madurai,East,A2B,Desserts,Parotta,1,634.34,33.67,18.5,Debit Card,Delivered,34,5.0,634.34,117.35,550.66,416.35,134.31
+FD10479,2025-08-02,Chennai,West,A2B,South Indian,Pizza,3,283.34,57.22,14.5,UPI,Delivered,28,4.3,850.02,123.25,783.99,579.47,204.52
+FD10659,2025-08-02,Chennai,North,Food Street,Chinese,Noodles,3,216.94,23.13,16.8,Cash on Delivery,Delivered,30,4.5,650.82,109.34,564.61,314.75,249.86
+FD10118,2025-08-03,Bengaluru,East,Spice Hub,Pizza,Dosa,2,287.9,33.6,12.8,Wallet,Delivered,27,4.5,575.8,73.7,535.7,340.45,195.25
+FD10437,2025-08-03,Bengaluru,South,Royal Kitchen,Fast Food,Fried Rice,4,133.53,43.74,26.2,UPI,Delivered,62,4.3,534.12,139.94,437.92,267.21,170.71
+FD10461,2025-08-04,Kochi,East,Annapoorna,North Indian,Burger,1,647.16,28.72,0.8,Cash on Delivery,Out for Delivery,29,4.5,647.16,5.18,670.7,378.81,291.89
+FD10096,2025-08-04,Chennai,North,Food Street,Desserts,Cake,2,482.92,58.73,8.8,Debit Card,Delivered,59,3.4,965.84,84.99,939.58,587.1,352.48
+FD10782,2025-08-04,Bengaluru,North,Pizza Corner,Healthy,Dosa,2,497.59,43.69,21.3,Wallet,Out for Delivery,25,4.7,995.18,211.97,826.9,497.37,329.53
+FD10164,2025-08-04,Madurai,North,Annapoorna,Desserts,Fried Rice,2,305.49,23.82,25.4,Wallet,Delivered,27,4.6,610.98,155.19,479.61,291.06,188.55
+FD10389,2025-08-05,Kochi,South,Annapoorna,Biryani,Meals,4,315.9,31.05,6.7,UPI,Delivered,31,3.9,1263.6,84.66,1209.99,905.01,304.98
+FD10596,2025-08-06,Kochi,North,Healthy Bowl,Fast Food,Parotta,1,524.64,45.07,9.9,Cash on Delivery,Delivered,28,5.0,524.64,51.94,517.77,343.12,174.65
+FD10793,2025-08-07,Coimbatore,West,Royal Kitchen,Biryani,Meals,1,329.4,41.94,29.1,Wallet,Returned,18,3.6,329.4,95.86,275.48,193.29,82.19
+FD10013,2025-08-07,Bengaluru,East,Pizza Corner,Fast Food,Parotta,4,636.98,55.79,21.1,Credit Card,Delivered,36,3.8,2547.92,537.61,2066.1,1350.57,715.53
+FD10663,2025-08-07,Chennai,East,Royal Kitchen,Chinese,Biryani,1,235.61,53.35,0.5,Credit Card,Out for Delivery,34,4.3,235.61,1.18,287.78,214.63,73.15
+FD10339,2025-08-07,Hyderabad,South,Healthy Bowl,Chinese,Parotta,4,551.32,78.19,1.9,UPI,Delivered,64,3.8,2205.28,41.9,2241.57,1449.34,792.23
+FD10586,2025-08-08,Coimbatore,East,Spice Hub,Pizza,Cake,3,599.77,49.18,6.6,Wallet,Delivered,55,3.3,1799.31,118.75,1729.74,1102.43,627.31
+FD10059,2025-08-08,Madurai,South,SS Hyderabad Biryani,Desserts,Biryani,1,491.69,21.96,18.0,UPI,Out for Delivery,68,3.8,491.69,88.5,425.15,292.88,132.27
+FD10557,2025-08-10,Hyderabad,East,A2B,South Indian,Meals,2,212.96,23.75,20.5,Wallet,Delivered,33,4.4,425.92,87.31,362.36,201.75,160.61
+FD10664,2025-08-10,Madurai,East,Domino's,Healthy,Noodles,4,620.18,56.11,17.8,Credit Card,Returned,46,5.0,2480.72,441.57,2095.26,1265.99,829.27
+FD10718,2025-08-10,Kochi,North,Annapoorna,Biryani,Meals,1,568.77,48.27,8.0,Cash on Delivery,Out for Delivery,70,4.6,568.77,45.5,571.54,417.88,153.66
+FD10561,2025-08-12,Hyderabad,East,Pizza Corner,Pizza,Dosa,4,541.52,60.43,12.4,Debit Card,Delivered,61,4.4,2166.08,268.59,1957.92,1388.66,569.26
+FD10223,2025-08-12,Coimbatore,North,A2B,Desserts,Pizza,2,179.81,24.19,19.6,Wallet,Delivered,28,3.3,359.62,70.49,313.32,210.14,103.18
+FD10055,2025-08-13,Chennai,South,Pizza Corner,South Indian,Parotta,4,178.24,19.57,6.2,Credit Card,Delivered,45,4.9,712.96,44.2,688.33,378.6,309.73
+FD10741,2025-08-14,Kochi,East,Pizza Corner,Pizza,Dosa,1,291.75,54.69,11.3,Debit Card,Cancelled,53,5.0,291.75,32.97,313.47,214.27,99.2
+FD10141,2025-08-14,Chennai,East,Spice Hub,Desserts,Dosa,3,292.91,34.97,22.2,Cash on Delivery,Delivered,26,4.1,878.73,195.08,718.62,443.53,275.09
+FD10609,2025-08-15,Coimbatore,East,Pizza Corner,Healthy,Meals,1,638.97,17.32,29.6,UPI,Delivered,64,3.7,638.97,189.14,467.15,300.13,167.02
+FD10492,2025-08-15,Chennai,North,Healthy Bowl,Biryani,Biryani,4,183.09,73.92,10.0,Debit Card,Delivered,56,4.8,732.36,73.24,733.04,435.24,297.8
+FD10428,2025-08-15,Bengaluru,West,Annapoorna,South Indian,Salad,1,194.97,37.82,23.4,Wallet,Out for Delivery,37,5.0,194.97,45.62,187.17,111.23,75.94
+FD10119,2025-08-15,Coimbatore,North,Food Street,Chinese,Pizza,4,414.15,36.92,13.3,Wallet,Cancelled,72,4.5,1656.6,220.33,1473.19,977.48,495.71
+FD10335,2025-08-15,Coimbatore,South,Pizza Corner,South Indian,Burger,4,241.06,27.73,16.6,Credit Card,Out for Delivery,33,3.7,964.24,160.06,831.91,518.91,313.0
+FD10323,2025-08-16,Coimbatore,West,Pizza Corner,Biryani,Biryani,2,333.5,75.33,27.8,Wallet,Delivered,26,3.4,667.0,185.43,556.9,359.67,197.23
+FD10067,2025-08-18,Chennai,East,SS Hyderabad Biryani,Biryani,Fried Rice,1,363.2,61.47,8.2,Debit Card,Out for Delivery,73,5.0,363.2,29.78,394.89,275.32,119.57
+FD10654,2025-08-18,Kochi,East,Burger House,Desserts,Fried Rice,4,244.29,70.04,15.9,Wallet,Delivered,20,3.4,977.16,155.37,891.83,539.54,352.29
+FD10624,2025-08-18,Madurai,North,SS Hyderabad Biryani,Chinese,Salad,4,333.92,26.7,12.0,Debit Card,Delivered,58,4.9,1335.68,160.28,1202.1,671.01,531.09
+FD10242,2025-08-19,Coimbatore,West,Pizza Corner,Healthy,Biryani,3,632.95,24.8,7.9,Debit Card,Delivered,43,4.4,1898.85,150.01,1773.64,1081.7,691.94
+FD10155,2025-08-19,Madurai,South,Burger House,Pizza,Parotta,2,305.86,74.52,14.4,Wallet,Delivered,38,4.1,611.72,88.09,598.15,399.78,198.37
+FD10175,2025-08-19,Kochi,North,Royal Kitchen,Chinese,Burger,1,117.7,65.71,8.5,Cash on Delivery,Delivered,29,3.5,117.7,10.0,173.41,96.76,76.65
+FD10565,2025-08-20,Coimbatore,West,Pizza Corner,Healthy,Fried Rice,1,235.71,65.16,8.6,Cash on Delivery,Delivered,61,4.1,235.71,20.27,280.6,189.37,91.23
+FD10204,2025-08-20,Bengaluru,East,Royal Kitchen,Healthy,Parotta,1,474.14,22.54,4.7,Cash on Delivery,Out for Delivery,27,4.3,474.14,22.28,474.4,288.36,186.04
+FD10583,2025-08-20,Chennai,East,Pizza Corner,Pizza,Pizza,1,150.35,57.58,10.5,Wallet,Delivered,24,3.8,150.35,15.79,192.14,141.9,50.24
+FD10080,2025-08-22,Hyderabad,East,A2B,North Indian,Burger,2,638.63,49.44,10.1,Credit Card,Delivered,49,4.0,1277.26,129.0,1197.7,755.15,442.55
+FD10688,2025-08-22,Bengaluru,East,Pizza Corner,Desserts,Parotta,1,91.7,43.21,25.8,Debit Card,Cancelled,18,3.9,91.7,23.66,111.25,69.34,41.91
+FD10049,2025-08-22,Madurai,South,Annapoorna,South Indian,Burger,1,604.91,54.11,28.3,Credit Card,Delivered,57,4.3,604.91,171.19,487.83,272.64,215.19
+FD10138,2025-08-22,Kochi,North,Food Street,Pizza,Dosa,4,490.64,35.49,23.8,Cash on Delivery,Delivered,67,4.9,1962.56,467.09,1530.96,989.94,541.02
+FD10125,2025-08-23,Hyderabad,West,Annapoorna,Desserts,Biryani,2,519.09,40.42,15.0,Cash on Delivery,Delivered,36,2.6,1038.18,155.73,922.87,514.78,408.09
+FD10403,2025-08-23,Madurai,South,Healthy Bowl,Desserts,Meals,4,107.65,65.05,21.0,UPI,Delivered,32,4.7,430.6,90.43,405.22,304.19,101.03
+FD10419,2025-08-23,Madurai,South,Food Street,Fast Food,Cake,2,536.78,58.48,3.8,Cash on Delivery,Delivered,35,4.3,1073.56,40.8,1091.24,603.43,487.81
+FD10580,2025-08-24,Bengaluru,South,Royal Kitchen,Healthy,Dosa,2,519.06,70.45,13.1,Credit Card,Cancelled,66,3.5,1038.12,135.99,972.58,666.69,305.89
+FD10598,2025-08-25,Kochi,North,Burger House,North Indian,Salad,1,143.17,25.79,24.8,Wallet,Delivered,46,4.0,143.17,35.51,133.45,81.71,51.74
+FD10313,2025-08-26,Kochi,West,Food Street,Chinese,Parotta,2,564.92,43.68,2.3,Cash on Delivery,Out for Delivery,28,2.5,1129.84,25.99,1147.53,861.39,286.14
+FD10792,2025-08-26,Chennai,East,Food Street,Healthy,Salad,2,621.47,27.99,6.7,UPI,Out for Delivery,33,4.9,1242.94,83.28,1187.65,837.25,350.4
+FD10359,2025-08-26,Chennai,South,Pizza Corner,Chinese,Cake,4,448.24,59.02,5.5,Credit Card,Delivered,71,4.2,1792.96,98.61,1753.37,1023.71,729.66
+FD10280,2025-08-27,Chennai,East,Pizza Corner,South Indian,Meals,3,450.11,25.68,24.9,Debit Card,Delivered,26,3.2,1350.33,336.23,1039.78,721.32,318.46
+FD10740,2025-08-27,Coimbatore,North,A2B,Chinese,Cake,4,486.93,44.04,23.2,Wallet,Delivered,72,4.2,1947.72,451.87,1539.89,853.9,685.99
+FD10668,2025-08-27,Kochi,West,Healthy Bowl,South Indian,Noodles,3,174.27,61.12,18.3,Debit Card,Out for Delivery,47,4.5,522.81,95.67,488.26,320.94,167.32
+FD10662,2025-08-28,Madurai,South,Royal Kitchen,Desserts,Meals,1,518.87,55.5,8.1,Wallet,Out for Delivery,74,3.8,518.87,42.03,532.34,293.43,238.91
+FD10460,2025-08-29,Chennai,West,Royal Kitchen,South Indian,Biryani,3,320.86,30.2,1.4,Debit Card,Delivered,25,4.0,962.58,13.48,979.3,588.19,391.11
+FD10783,2025-08-29,Bengaluru,West,Domino's,Desserts,Burger,2,628.99,28.61,14.2,UPI,Delivered,45,4.2,1257.98,178.63,1107.96,736.28,371.68
+FD10773,2025-08-29,Hyderabad,West,Spice Hub,Healthy,Pizza,1,190.21,16.96,11.3,Debit Card,Delivered,40,3.7,190.21,21.49,185.68,133.04,52.64
+FD10772,2025-08-30,Bengaluru,North,Domino's,Chinese,Meals,2,372.48,64.05,8.4,Debit Card,Out for Delivery,53,5.0,744.96,62.58,746.43,531.68,214.75
+FD10200,2025-08-30,Kochi,North,Healthy Bowl,South Indian,Burger,2,503.6,58.19,11.9,Cash on Delivery,Out for Delivery,27,3.1,1007.2,119.86,945.53,578.57,366.96
+FD10297,2025-08-30,Kochi,West,Pizza Corner,Healthy,Burger,4,287.46,74.34,3.3,Debit Card,Delivered,60,4.2,1149.84,37.94,1186.24,873.32,312.92
+FD10779,2025-08-31,Bengaluru,North,Annapoorna,Healthy,Noodles,1,183.46,44.88,13.9,Cash on Delivery,Delivered,21,3.3,183.46,25.5,202.84,112.41,90.43
+FD10439,2025-09-01,Kochi,North,A2B,Desserts,Pizza,4,490.51,42.57,16.2,Wallet,Delivered,32,4.9,1962.04,317.85,1686.76,1195.84,490.92
+FD10571,2025-09-03,Hyderabad,South,Annapoorna,Healthy,Parotta,3,500.26,29.6,18.0,UPI,Delivered,41,4.2,1500.78,270.14,1260.24,797.48,462.76
+FD10455,2025-09-03,Bengaluru,East,Annapoorna,South Indian,Salad,2,573.02,67.0,24.9,Wallet,Delivered,72,4.0,1146.04,285.36,927.68,707.14,220.54
+FD10278,2025-09-04,Kochi,North,Royal Kitchen,Biryani,Pizza,1,584.94,32.16,5.1,Wallet,Delivered,21,4.9,584.94,29.83,587.27,439.6,147.67
+FD10193,2025-09-05,Bengaluru,West,SS Hyderabad Biryani,North Indian,Cake,2,647.63,68.89,25.3,Credit Card,Delivered,39,4.4,1295.26,327.7,1036.45,662.37,374.08
+FD10147,2025-09-05,Coimbatore,South,Food Street,Biryani,Fried Rice,4,510.53,71.57,5.4,Cash on Delivery,Delivered,24,3.4,2042.12,110.27,2003.42,1337.94,665.48
+FD10054,2025-09-05,Kochi,North,Food Street,Biryani,Meals,4,228.08,48.57,2.6,UPI,Cancelled,70,4.9,912.32,23.72,937.17,610.32,326.85
+FD10273,2025-09-05,Bengaluru,North,Royal Kitchen,Chinese,Parotta,3,315.84,43.73,22.6,Debit Card,Delivered,25,4.2,947.52,214.14,777.11,485.73,291.38
+FD10564,2025-09-06,Madurai,East,Domino's,North Indian,Burger,3,561.14,41.14,20.7,UPI,Cancelled,74,4.2,1683.42,348.47,1376.09,849.94,526.15
+FD10547,2025-09-06,Kochi,West,Domino's,Pizza,Noodles,1,630.17,49.12,27.4,UPI,Returned,39,5.0,630.17,172.67,506.62,309.93,196.69
+FD10546,2025-09-07,Madurai,West,Spice Hub,Chinese,Cake,3,174.23,39.74,11.0,Cash on Delivery,Delivered,70,3.3,522.69,57.5,504.93,369.67,135.26
+FD10093,2025-09-08,Bengaluru,East,Royal Kitchen,Chinese,Parotta,4,597.88,16.58,0.9,Credit Card,Delivered,34,3.5,2391.52,21.52,2386.58,1388.68,997.9
+FD10796,2025-09-08,Kochi,East,A2B,Healthy,Meals,3,479.56,50.41,21.3,Debit Card,Cancelled,27,5.0,1438.68,306.44,1182.65,664.28,518.37
+FD10761,2025-09-08,Madurai,North,Annapoorna,Healthy,Noodles,3,395.93,49.66,6.0,Debit Card,Out for Delivery,74,3.6,1187.79,71.27,1166.18,819.01,347.17
+FD10019,2025-09-08,Madurai,North,Domino's,Pizza,Fried Rice,1,448.26,73.26,9.6,Cash on Delivery,Returned,23,4.4,448.26,43.03,478.49,331.6,146.89
+FD10353,2025-09-08,Chennai,North,SS Hyderabad Biryani,North Indian,Salad,1,463.75,25.03,16.3,Cash on Delivery,Out for Delivery,52,3.5,463.75,75.59,413.19,278.43,134.76
+FD10447,2025-09-08,Madurai,South,Annapoorna,South Indian,Meals,2,521.83,71.52,7.3,Cash on Delivery,Out for Delivery,74,4.1,1043.66,76.19,1038.99,739.28,299.71
+FD10686,2025-09-09,Kochi,West,Spice Hub,South Indian,Dosa,4,545.08,54.34,5.9,Cash on Delivery,Out for Delivery,25,4.3,2180.32,128.64,2106.02,1532.8,573.22
+FD10245,2025-09-09,Hyderabad,West,A2B,Biryani,Meals,1,249.43,43.41,27.1,Cash on Delivery,Delivered,72,5.0,249.43,67.6,225.24,137.12,88.12
+FD10029,2025-09-09,Madurai,East,Healthy Bowl,Chinese,Meals,3,554.95,73.04,12.8,Cash on Delivery,Delivered,36,4.4,1664.85,213.1,1524.79,1161.62,363.17
+FD10045,2025-09-10,Bengaluru,West,Burger House,Fast Food,Noodles,2,547.08,28.99,27.9,Credit Card,Cancelled,26,3.6,1094.16,305.27,817.88,565.57,252.31
+FD10649,2025-09-10,Bengaluru,East,Food Street,Biryani,Cake,1,557.82,66.23,19.9,Wallet,Cancelled,40,4.4,557.82,111.01,513.04,372.52,140.52
+FD10116,2025-09-10,Chennai,West,Food Street,Desserts,Parotta,2,629.75,66.0,5.6,Wallet,Delivered,58,3.2,1259.5,70.53,1254.97,697.87,557.1
+FD10315,2025-09-11,Coimbatore,South,Domino's,South Indian,Parotta,1,241.15,15.35,5.4,Wallet,Delivered,41,4.5,241.15,13.02,243.48,152.73,90.75
+FD10560,2025-09-12,Kochi,East,Spice Hub,Biryani,Salad,4,625.92,48.87,7.1,UPI,Out for Delivery,19,3.2,2503.68,177.76,2374.79,1547.83,826.96
+FD10195,2025-09-12,Chennai,South,Annapoorna,South Indian,Noodles,1,357.85,49.04,25.2,Cash on Delivery,Returned,27,3.7,357.85,90.18,316.71,246.36,70.35
+FD10358,2025-09-12,Kochi,North,Domino's,Desserts,Salad,2,458.71,63.86,29.6,Debit Card,Delivered,46,3.8,917.42,271.56,709.72,507.41,202.31
+FD10457,2025-09-12,Kochi,East,Royal Kitchen,Healthy,Biryani,1,204.24,57.61,29.3,Cash on Delivery,Cancelled,67,4.2,204.24,59.84,202.01,114.41,87.6
+FD10470,2025-09-13,Madurai,East,Spice Hub,Pizza,Parotta,1,233.4,60.29,21.5,Debit Card,Out for Delivery,66,3.5,233.4,50.18,243.51,186.06,57.45
+FD10697,2025-09-13,Coimbatore,East,SS Hyderabad Biryani,North Indian,Meals,1,423.8,55.22,9.0,Credit Card,Out for Delivery,60,4.4,423.8,38.14,440.88,335.37,105.51
+FD10185,2025-09-13,Chennai,South,Healthy Bowl,North Indian,Burger,4,210.9,49.07,10.9,Wallet,Delivered,31,3.9,843.6,91.95,800.72,559.13,241.59
+FD10519,2025-09-15,Madurai,North,Food Street,Desserts,Burger,4,340.37,79.15,15.5,Debit Card,Delivered,24,4.1,1361.48,211.03,1229.6,892.28,337.32
+FD10041,2025-09-15,Kochi,East,Food Street,Desserts,Fried Rice,3,249.95,61.66,1.1,Wallet,Delivered,72,4.4,749.85,8.25,803.26,521.01,282.25
+FD10704,2025-09-16,Madurai,East,Burger House,South Indian,Pizza,1,580.42,57.55,4.5,Debit Card,Out for Delivery,50,4.2,580.42,26.12,611.85,346.95,264.9
+FD10502,2025-09-16,Bengaluru,North,Annapoorna,Pizza,Pizza,3,460.62,20.16,16.0,Debit Card,Out for Delivery,24,4.1,1381.86,221.1,1180.92,827.0,353.92
+FD10774,2025-09-16,Chennai,North,Domino's,North Indian,Biryani,1,122.42,18.22,28.1,UPI,Delivered,24,5.0,122.42,34.4,106.24,79.66,26.58
+FD10406,2025-09-16,Kochi,East,SS Hyderabad Biryani,Fast Food,Biryani,1,464.53,54.28,4.1,Wallet,Delivered,25,4.8,464.53,19.05,499.76,288.7,211.06
+FD10035,2025-09-18,Coimbatore,North,Annapoorna,North Indian,Noodles,1,420.56,34.95,24.3,Debit Card,Delivered,23,4.4,420.56,102.2,353.31,202.85,150.46
+FD10136,2025-09-18,Hyderabad,East,Domino's,South Indian,Pizza,3,234.11,16.86,16.3,UPI,Delivered,41,4.6,702.33,114.48,604.71,430.07,174.64
+FD10262,2025-09-18,Hyderabad,North,Pizza Corner,Biryani,Salad,3,489.51,28.96,4.6,Cash on Delivery,Returned,25,4.9,1468.53,67.55,1429.94,907.94,522.0
+FD10456,2025-09-18,Chennai,East,Healthy Bowl,Fast Food,Cake,4,182.37,25.28,6.6,UPI,Returned,51,5.0,729.48,48.15,706.61,456.22,250.39
+FD10091,2025-09-18,Bengaluru,West,A2B,North Indian,Burger,3,391.56,48.36,6.8,UPI,Delivered,67,3.9,1174.68,79.88,1143.16,833.07,310.09
+FD10700,2025-09-18,Madurai,East,Burger House,North Indian,Burger,3,590.52,18.83,5.4,Cash on Delivery,Delivered,20,3.8,1771.56,95.66,1694.73,1220.25,474.48
+FD10735,2025-09-19,Hyderabad,North,Healthy Bowl,Biryani,Biryani,2,401.28,16.27,7.1,Cash on Delivery,Out for Delivery,55,4.4,802.56,56.98,761.85,462.28,299.57
+FD10696,2025-09-19,Hyderabad,North,Healthy Bowl,Healthy,Pizza,3,210.67,35.78,28.1,Credit Card,Delivered,64,5.0,632.01,177.59,490.2,354.03,136.17
+FD10501,2025-09-20,Kochi,South,Spice Hub,Fast Food,Dosa,3,181.6,35.22,8.6,Cash on Delivery,Delivered,61,4.5,544.8,46.85,533.17,333.15,200.02
+FD10140,2025-09-20,Madurai,South,Pizza Corner,Desserts,Salad,1,636.93,54.72,23.0,Debit Card,Cancelled,54,3.7,636.93,146.49,545.16,381.86,163.3
+FD10318,2025-09-21,Chennai,South,A2B,Pizza,Pizza,4,91.83,42.82,2.3,Cash on Delivery,Out for Delivery,54,4.1,367.32,8.45,401.69,283.21,118.48
+FD10646,2025-09-21,Coimbatore,South,Domino's,Healthy,Burger,1,410.0,67.44,9.8,UPI,Out for Delivery,29,4.8,410.0,40.18,437.26,315.91,121.35
+FD10326,2025-09-22,Coimbatore,North,Royal Kitchen,Chinese,Burger,2,260.32,73.95,2.3,UPI,Delivered,58,4.4,520.64,11.97,582.62,383.22,199.4
+FD10707,2025-09-22,Bengaluru,North,SS Hyderabad Biryani,Healthy,Parotta,3,605.61,20.63,2.4,Cash on Delivery,Cancelled,29,3.9,1816.83,43.6,1793.86,1252.62,541.24
+FD10717,2025-09-23,Chennai,West,A2B,South Indian,Noodles,1,103.2,69.41,9.0,Cash on Delivery,Delivered,27,3.7,103.2,9.29,163.32,108.95,54.37
+FD10299,2025-09-23,Hyderabad,South,Healthy Bowl,Chinese,Cake,4,354.48,24.55,17.3,Debit Card,Out for Delivery,21,3.6,1417.92,245.3,1197.17,837.85,359.32
+FD10176,2025-09-23,Kochi,North,Pizza Corner,South Indian,Biryani,1,409.45,20.93,4.9,Cash on Delivery,Delivered,54,3.1,409.45,20.06,410.32,268.05,142.27
+FD10634,2025-09-24,Chennai,South,A2B,Chinese,Fried Rice,2,136.51,54.67,26.1,Credit Card,Delivered,70,3.5,273.02,71.26,256.43,191.85,64.58
+FD10189,2025-09-24,Chennai,West,Spice Hub,Biryani,Parotta,3,404.58,64.93,3.6,Wallet,Delivered,23,4.6,1213.74,43.69,1234.98,933.98,301.0
+FD10390,2025-09-25,Coimbatore,West,Healthy Bowl,Fast Food,Noodles,1,574.84,67.94,19.7,UPI,Cancelled,60,5.0,574.84,113.24,529.54,362.52,167.02
+FD10309,2025-09-25,Madurai,East,A2B,Fast Food,Pizza,1,587.08,25.82,26.0,Wallet,Out for Delivery,27,3.9,587.08,152.64,460.26,357.18,103.08
+FD10261,2025-09-26,Kochi,North,Domino's,South Indian,Fried Rice,3,319.81,23.57,5.7,Cash on Delivery,Out for Delivery,24,4.7,959.43,54.69,928.31,583.67,344.64
+FD10333,2025-09-26,Chennai,East,Spice Hub,South Indian,Burger,3,94.49,21.44,12.9,Cash on Delivery,Delivered,71,3.6,283.47,36.57,268.34,152.51,115.83
+FD10370,2025-09-26,Coimbatore,North,Healthy Bowl,North Indian,Noodles,4,188.98,67.89,9.3,Credit Card,Delivered,43,5.0,755.92,70.3,753.51,510.95,242.56
+FD10177,2025-09-27,Coimbatore,West,Pizza Corner,Healthy,Meals,2,222.99,27.92,28.4,Credit Card,Out for Delivery,23,4.0,445.98,126.66,347.24,262.88,84.36
+FD10759,2025-09-29,Chennai,South,Spice Hub,Pizza,Fried Rice,4,224.02,67.25,28.4,Wallet,Delivered,70,4.5,896.08,254.49,708.84,415.61,293.23
+FD10076,2025-09-30,Bengaluru,North,SS Hyderabad Biryani,Fast Food,Salad,3,572.16,26.0,27.4,Cash on Delivery,Out for Delivery,26,4.6,1716.48,470.32,1272.16,820.72,451.44
+FD10757,2025-09-30,Madurai,East,Healthy Bowl,Desserts,Salad,1,427.14,39.07,20.2,UPI,Out for Delivery,62,4.4,427.14,86.28,379.93,232.03,147.9
+FD10644,2025-09-30,Coimbatore,North,Pizza Corner,South Indian,Meals,4,645.8,76.61,7.3,Credit Card,Cancelled,69,4.7,2583.2,188.57,2471.24,1516.11,955.13
+FD10674,2025-10-01,Chennai,East,Royal Kitchen,Chinese,Meals,2,363.29,42.35,25.6,Credit Card,Cancelled,64,3.9,726.58,186.0,582.93,377.75,205.18
+FD10608,2025-10-01,Hyderabad,West,Domino's,Fast Food,Meals,3,503.59,79.45,25.8,UPI,Delivered,66,4.1,1510.77,389.78,1200.44,877.6,322.84
+FD10267,2025-10-02,Madurai,East,Pizza Corner,Desserts,Pizza,1,106.68,45.67,24.8,Credit Card,Delivered,64,3.5,106.68,26.46,125.89,88.81,37.08
+FD10751,2025-10-02,Coimbatore,West,Spice Hub,South Indian,Fried Rice,2,629.05,72.48,28.8,UPI,Cancelled,65,2.6,1258.1,362.33,968.25,632.0,336.25
+FD10511,2025-10-02,Kochi,West,Healthy Bowl,Pizza,Biryani,1,510.42,58.45,6.8,Cash on Delivery,Out for Delivery,50,4.4,510.42,34.71,534.16,326.32,207.84
+FD10328,2025-10-02,Hyderabad,North,Food Street,Pizza,Pizza,1,114.88,40.3,9.3,Credit Card,Delivered,19,4.6,114.88,10.68,144.5,92.52,51.98
+FD10062,2025-10-03,Coimbatore,North,Pizza Corner,Chinese,Fried Rice,2,333.89,30.04,26.0,Debit Card,Cancelled,26,4.1,667.78,173.62,524.2,366.66,157.54
+FD10320,2025-10-03,Madurai,North,Pizza Corner,South Indian,Dosa,4,117.48,47.43,19.0,UPI,Delivered,48,4.2,469.92,89.28,428.07,253.18,174.89
+FD10021,2025-10-03,Chennai,East,Pizza Corner,Chinese,Salad,4,338.18,52.64,14.5,Credit Card,Delivered,67,3.2,1352.72,196.14,1209.22,747.22,462.0
+FD10086,2025-10-04,Hyderabad,South,Food Street,Fast Food,Pizza,3,334.31,35.05,12.2,UPI,Out for Delivery,57,3.0,1002.93,122.36,915.62,696.88,218.74
+FD10265,2025-10-04,Madurai,West,Burger House,Chinese,Biryani,1,268.37,56.71,1.3,Wallet,Delivered,60,4.3,268.37,3.49,321.59,210.83,110.76
+FD10756,2025-10-05,Madurai,North,Food Street,Biryani,Meals,2,171.05,67.34,29.2,Cash on Delivery,Delivered,60,4.0,342.1,99.89,309.55,198.78,110.77
+FD10628,2025-10-06,Coimbatore,South,SS Hyderabad Biryani,Healthy,Fried Rice,3,194.59,15.59,7.2,Credit Card,Delivered,59,4.0,583.77,42.03,557.33,373.79,183.54
+FD10047,2025-10-07,Coimbatore,South,A2B,Desserts,Dosa,4,168.85,63.54,23.7,UPI,Out for Delivery,72,4.9,675.4,160.07,578.87,377.86,201.01
+FD10657,2025-10-08,Coimbatore,North,Burger House,Pizza,Fried Rice,2,476.53,60.6,20.3,Cash on Delivery,Delivered,66,4.4,953.06,193.47,820.19,573.91,246.28
+FD10520,2025-10-08,Chennai,South,Food Street,Fast Food,Cake,4,491.97,55.66,23.1,UPI,Delivered,60,4.8,1967.88,454.58,1568.96,922.57,646.39
+FD10681,2025-10-08,Hyderabad,South,Pizza Corner,North Indian,Fried Rice,2,469.19,48.41,8.6,Wallet,Out for Delivery,20,4.5,938.38,80.7,906.09,633.38,272.71
+FD10487,2025-10-09,Bengaluru,South,Healthy Bowl,Biryani,Biryani,2,96.12,20.22,1.1,Wallet,Delivered,58,5.0,192.24,2.11,210.35,126.27,84.08
+FD10671,2025-10-09,Chennai,North,Royal Kitchen,Pizza,Pizza,1,409.31,60.45,3.0,Credit Card,Delivered,47,4.4,409.31,12.28,457.48,295.33,162.15
+FD10540,2025-10-09,Bengaluru,West,A2B,Fast Food,Salad,4,467.53,24.44,27.4,Wallet,Out for Delivery,19,4.0,1870.12,512.41,1382.15,1061.53,320.62
+FD10692,2025-10-09,Bengaluru,West,A2B,Pizza,Salad,1,477.29,62.98,8.8,Debit Card,Cancelled,27,4.1,477.29,42.0,498.27,330.61,167.66
+FD10114,2025-10-10,Hyderabad,West,A2B,Desserts,Biryani,4,377.57,66.83,11.0,Credit Card,Out for Delivery,44,3.7,1510.28,166.13,1410.98,1099.9,311.08
+FD10589,2025-10-10,Coimbatore,South,Pizza Corner,Chinese,Dosa,4,486.34,38.91,18.5,Cash on Delivery,Delivered,53,3.2,1945.36,359.89,1624.38,923.3,701.08
+FD10594,2025-10-10,Bengaluru,South,Spice Hub,Fast Food,Dosa,4,511.38,35.39,27.9,Cash on Delivery,Delivered,49,5.0,2045.52,570.7,1510.21,1100.55,409.66
+FD10713,2025-10-11,Hyderabad,North,Annapoorna,South Indian,Cake,1,603.91,23.43,7.9,Debit Card,Delivered,33,5.0,603.91,47.71,579.63,415.56,164.07
+FD10462,2025-10-12,Bengaluru,East,Annapoorna,Pizza,Burger,3,466.09,50.92,27.0,Cash on Delivery,Out for Delivery,60,4.9,1398.27,377.53,1071.66,603.01,468.65
+FD10100,2025-10-13,Madurai,South,Burger House,Pizza,Dosa,1,400.79,51.75,19.5,Wallet,Delivered,47,4.0,400.79,78.15,374.39,232.85,141.54
+FD10588,2025-10-14,Coimbatore,West,Spice Hub,Pizza,Dosa,3,320.22,65.44,23.2,Debit Card,Delivered,21,4.7,960.66,222.87,803.23,595.51,207.72
+FD10065,2025-10-14,Madurai,East,Royal Kitchen,Desserts,Burger,4,571.9,51.74,24.3,Cash on Delivery,Delivered,54,2.7,2287.6,555.89,1783.45,1384.6,398.85
+FD10506,2025-10-15,Bengaluru,South,Domino's,Biryani,Burger,4,186.83,64.0,26.2,Debit Card,Delivered,31,4.5,747.32,195.8,615.52,348.56,266.96
+FD10180,2025-10-15,Madurai,East,Pizza Corner,Pizza,Parotta,3,540.39,21.92,24.7,Wallet,Delivered,19,4.1,1621.17,400.43,1242.66,791.31,451.35
+FD10162,2025-10-16,Madurai,South,A2B,Biryani,Meals,1,642.99,73.78,0.1,Debit Card,Delivered,33,4.8,642.99,0.64,716.13,484.82,231.31
+FD10716,2025-10-17,Bengaluru,South,Annapoorna,Chinese,Noodles,3,211.78,61.92,7.9,Debit Card,Returned,70,3.3,635.34,50.19,647.07,378.87,268.2
+FD10396,2025-10-18,Coimbatore,West,SS Hyderabad Biryani,Pizza,Cake,2,288.4,47.68,25.9,Debit Card,Out for Delivery,39,3.4,576.8,149.39,475.09,301.41,173.68
+FD10031,2025-10-18,Coimbatore,West,Royal Kitchen,Desserts,Cake,1,244.79,56.65,19.5,Wallet,Cancelled,23,3.5,244.79,47.73,253.71,190.19,63.52
+FD10392,2025-10-18,Madurai,North,Healthy Bowl,Pizza,Pizza,4,158.37,49.4,21.9,UPI,Delivered,50,4.0,633.48,138.73,544.15,374.01,170.14
+FD10172,2025-10-18,Hyderabad,East,SS Hyderabad Biryani,South Indian,Dosa,2,528.14,23.15,17.7,Wallet,Delivered,47,3.2,1056.28,186.96,892.47,650.27,242.2
+FD10050,2025-10-19,Madurai,North,Food Street,Pizza,Parotta,4,218.99,29.2,22.7,Debit Card,Delivered,58,4.1,875.96,198.84,706.32,412.95,293.37
+FD10689,2025-10-19,Coimbatore,East,A2B,Chinese,Noodles,1,347.35,25.32,3.7,UPI,Delivered,54,4.9,347.35,12.85,359.82,259.87,99.95
+FD10433,2025-10-19,Chennai,West,SS Hyderabad Biryani,Desserts,Cake,3,616.58,26.5,19.4,Credit Card,Delivered,62,3.7,1849.74,358.85,1517.39,983.26,534.13
+FD10533,2025-10-19,Hyderabad,South,Food Street,Desserts,Pizza,1,302.62,47.8,5.8,Wallet,Out for Delivery,24,3.1,302.62,17.55,332.87,241.3,91.57
+FD10523,2025-10-20,Kochi,West,Spice Hub,Desserts,Noodles,2,183.24,77.23,26.2,Wallet,Out for Delivery,30,4.6,366.48,96.02,347.69,218.45,129.24
+FD10369,2025-10-20,Hyderabad,South,Healthy Bowl,Biryani,Cake,4,510.47,36.7,2.0,Debit Card,Cancelled,72,4.9,2041.88,40.84,2037.74,1335.05,702.69
+FD10464,2025-10-20,Madurai,West,Pizza Corner,Healthy,Salad,3,627.2,26.52,6.9,UPI,Cancelled,60,4.4,1881.6,129.83,1778.29,1209.39,568.9
+FD10344,2025-10-21,Kochi,East,A2B,Desserts,Noodles,1,469.66,56.08,29.6,UPI,Delivered,32,4.1,469.66,139.02,386.72,288.69,98.03
+FD10343,2025-10-21,Chennai,East,SS Hyderabad Biryani,Pizza,Pizza,4,567.32,55.48,17.9,Debit Card,Returned,62,5.0,2269.28,406.2,1918.56,1284.13,634.43
+FD10385,2025-10-21,Chennai,West,Pizza Corner,Fast Food,Noodles,4,630.76,41.43,20.1,Debit Card,Cancelled,69,4.4,2523.04,507.13,2057.34,1582.12,475.22
+FD10638,2025-10-23,Hyderabad,South,Spice Hub,Chinese,Noodles,1,156.08,41.15,6.7,Credit Card,Out for Delivery,56,5.0,156.08,10.46,186.77,126.73,60.04
+FD10407,2025-10-23,Chennai,East,Healthy Bowl,Chinese,Meals,3,431.89,24.05,2.1,Wallet,Delivered,31,4.3,1295.67,27.21,1292.51,809.5,483.01
+FD10676,2025-10-23,Madurai,West,Royal Kitchen,Fast Food,Fried Rice,3,184.15,33.49,14.2,Credit Card,Cancelled,43,2.7,552.45,78.45,507.49,357.72,149.77
+FD10799,2025-10-23,Madurai,East,SS Hyderabad Biryani,Healthy,Meals,1,92.41,36.24,26.0,Cash on Delivery,Delivered,37,5.0,92.41,24.03,104.62,72.49,32.13
+FD10292,2025-10-23,Madurai,North,Annapoorna,Desserts,Fried Rice,1,98.22,35.42,26.5,Cash on Delivery,Out for Delivery,39,3.8,98.22,26.03,107.61,66.44,41.17
+FD10699,2025-10-24,Madurai,East,Spice Hub,North Indian,Dosa,3,546.21,69.27,15.6,Credit Card,Delivered,31,4.0,1638.63,255.63,1452.27,948.29,503.98
+FD10216,2025-10-24,Coimbatore,South,Spice Hub,Biryani,Burger,3,231.27,78.02,8.1,Cash on Delivery,Delivered,28,4.9,693.81,56.2,715.63,542.77,172.86
+FD10154,2025-10-25,Coimbatore,West,Spice Hub,Chinese,Cake,2,256.33,58.04,18.9,Debit Card,Returned,56,4.6,512.66,96.89,473.81,332.16,141.65
+FD10394,2025-10-25,Coimbatore,East,Spice Hub,Pizza,Fried Rice,2,397.72,26.54,25.1,UPI,Out for Delivery,50,3.4,795.44,199.66,622.32,393.32,229.0
+FD10197,2025-10-26,Kochi,East,Healthy Bowl,Biryani,Biryani,2,94.02,66.96,5.0,Cash on Delivery,Delivered,30,5.0,188.04,9.4,245.6,168.53,77.07
+FD10092,2025-10-27,Hyderabad,North,Healthy Bowl,Biryani,Fried Rice,2,610.78,54.47,16.1,UPI,Delivered,68,3.9,1221.56,196.67,1079.36,706.41,372.95
+FD10749,2025-10-27,Chennai,East,Food Street,South Indian,Pizza,4,536.63,49.63,2.4,Debit Card,Delivered,28,3.8,2146.52,51.52,2144.63,1277.72,866.91
+FD10156,2025-10-27,Kochi,South,SS Hyderabad Biryani,Healthy,Burger,4,350.49,42.23,9.3,Credit Card,Returned,65,4.5,1401.96,130.38,1313.81,890.46,423.35
+FD10266,2025-10-27,Bengaluru,South,SS Hyderabad Biryani,Pizza,Dosa,3,198.88,23.93,2.8,Cash on Delivery,Delivered,68,2.8,596.64,16.71,603.86,372.86,231.0
+FD10786,2025-10-28,Hyderabad,North,Spice Hub,North Indian,Dosa,3,194.07,68.11,6.7,Debit Card,Cancelled,58,4.0,582.21,39.01,611.31,394.37,216.94
+FD10602,2025-10-28,Coimbatore,North,Healthy Bowl,Chinese,Meals,3,497.9,24.6,1.7,Credit Card,Delivered,68,4.2,1493.7,25.39,1492.91,1055.38,437.53
+FD10785,2025-10-29,Chennai,South,Spice Hub,Pizza,Meals,1,102.73,46.74,26.1,Debit Card,Delivered,23,4.1,102.73,26.81,122.66,85.44,37.22
+FD10517,2025-10-29,Hyderabad,North,Food Street,North Indian,Noodles,3,648.58,23.68,1.2,UPI,Out for Delivery,64,4.3,1945.74,23.35,1946.07,1422.5,523.57
+FD10605,2025-10-29,Kochi,West,Pizza Corner,Healthy,Parotta,3,636.77,55.16,29.2,Wallet,Cancelled,34,3.1,1910.31,557.81,1407.66,835.61,572.05
+FD10322,2025-10-29,Chennai,East,Burger House,Desserts,Cake,4,220.11,62.49,14.9,Wallet,Cancelled,21,4.5,880.44,131.19,811.74,564.6,247.14
+FD10208,2025-10-30,Madurai,South,Spice Hub,Biryani,Salad,4,544.58,35.86,2.0,Credit Card,Cancelled,45,3.8,2178.32,43.57,2170.61,1656.62,513.99
+FD10298,2025-10-30,Bengaluru,South,SS Hyderabad Biryani,Desserts,Cake,4,593.57,47.7,4.5,Wallet,Out for Delivery,23,3.7,2374.28,106.84,2315.14,1726.39,588.75
+FD10590,2025-10-30,Bengaluru,South,Spice Hub,Biryani,Noodles,3,473.85,60.67,4.5,Cash on Delivery,Delivered,40,3.7,1421.55,63.97,1418.25,982.43,435.82
+FD10310,2025-10-31,Chennai,South,Royal Kitchen,Desserts,Salad,1,519.8,59.01,8.7,Debit Card,Delivered,61,4.3,519.8,45.22,533.59,308.1,225.49
+FD10795,2025-10-31,Bengaluru,North,Spice Hub,South Indian,Salad,3,583.96,35.72,25.7,UPI,Delivered,59,2.7,1751.88,450.23,1337.37,942.42,394.95
+FD10626,2025-10-31,Chennai,East,Food Street,South Indian,Cake,3,548.19,44.6,25.9,Debit Card,Delivered,26,4.2,1644.57,425.94,1263.23,702.6,560.63
+FD10584,2025-11-01,Kochi,East,Burger House,Pizza,Noodles,2,345.53,62.24,19.4,UPI,Delivered,59,2.5,691.06,134.07,619.23,458.79,160.44
+FD10466,2025-11-01,Chennai,North,Healthy Bowl,Chinese,Pizza,4,102.1,25.61,28.8,Wallet,Delivered,41,3.4,408.4,117.62,316.39,215.71,100.68
+FD10090,2025-11-01,Chennai,East,Spice Hub,Biryani,Pizza,2,383.81,51.14,5.2,UPI,Delivered,69,3.3,767.62,39.92,778.84,596.46,182.38
+FD10551,2025-11-03,Hyderabad,West,Pizza Corner,Fast Food,Fried Rice,4,648.34,58.53,11.7,Credit Card,Delivered,39,5.0,2593.36,303.42,2348.47,1320.42,1028.05
+FD10615,2025-11-04,Bengaluru,North,Royal Kitchen,Desserts,Parotta,2,600.49,17.93,24.0,Credit Card,Delivered,35,4.9,1200.98,288.24,930.67,546.22,384.45
+FD10531,2025-11-04,Bengaluru,North,Spice Hub,Biryani,Biryani,4,233.07,41.24,19.3,Cash on Delivery,Out for Delivery,25,4.3,932.28,179.93,793.59,478.97,314.62
+FD10695,2025-11-04,Coimbatore,West,Burger House,Chinese,Pizza,2,303.48,26.34,22.4,Credit Card,Cancelled,70,2.4,606.96,135.96,497.34,277.93,219.41
+FD10146,2025-11-04,Madurai,East,A2B,Pizza,Cake,3,514.21,60.32,2.1,Cash on Delivery,Delivered,67,4.3,1542.63,32.4,1570.55,1196.69,373.86
+FD10087,2025-11-06,Coimbatore,East,Annapoorna,Fast Food,Dosa,3,286.28,32.04,6.1,Credit Card,Delivered,44,4.2,858.84,52.39,838.49,610.55,227.94
+FD10317,2025-11-06,Coimbatore,East,SS Hyderabad Biryani,Biryani,Pizza,3,620.86,46.35,18.4,UPI,Delivered,59,3.5,1862.58,342.71,1566.22,1208.71,357.51
+FD10746,2025-11-07,Chennai,West,Domino's,Chinese,Salad,4,540.9,47.93,18.7,UPI,Cancelled,29,3.7,2163.6,404.59,1806.94,1379.32,427.62
+FD10196,2025-11-07,Kochi,West,SS Hyderabad Biryani,Biryani,Parotta,2,170.84,38.34,29.7,Credit Card,Delivered,44,4.4,341.68,101.48,278.54,181.34,97.2
+FD10593,2025-11-07,Hyderabad,West,Food Street,South Indian,Salad,3,381.01,20.05,1.3,Wallet,Out for Delivery,29,5.0,1143.03,14.86,1148.22,869.74,278.48
+FD10445,2025-11-07,Kochi,South,Pizza Corner,Chinese,Biryani,2,175.26,47.0,12.0,UPI,Delivered,48,4.1,350.52,42.06,355.46,274.97,80.49
+FD10283,2025-11-07,Chennai,West,A2B,South Indian,Pizza,3,249.72,49.57,28.6,Debit Card,Delivered,65,5.0,749.16,214.26,584.47,429.73,154.74
+FD10018,2025-11-08,Chennai,West,SS Hyderabad Biryani,Fast Food,Salad,3,228.44,58.15,27.8,Wallet,Delivered,31,4.1,685.32,190.52,552.95,413.3,139.65
+FD10607,2025-11-08,Kochi,North,SS Hyderabad Biryani,North Indian,Parotta,4,365.66,66.7,18.1,UPI,Delivered,35,3.6,1462.64,264.74,1264.6,899.55,365.05
+FD10264,2025-11-08,Chennai,West,Burger House,South Indian,Pizza,1,337.19,41.91,12.7,Credit Card,Delivered,55,3.2,337.19,42.82,336.28,253.43,82.85
+FD10145,2025-11-09,Coimbatore,South,SS Hyderabad Biryani,South Indian,Pizza,1,211.17,30.74,5.5,Credit Card,Returned,32,3.6,211.17,11.61,230.3,168.09,62.21
+FD10032,2025-11-09,Chennai,North,Domino's,Biryani,Meals,3,361.68,17.92,7.6,Wallet,Delivered,21,4.6,1085.04,82.46,1020.5,748.48,272.02
+FD10639,2025-11-09,Coimbatore,North,Annapoorna,Pizza,Burger,2,566.94,32.89,20.4,Debit Card,Cancelled,30,2.3,1133.88,231.31,935.46,709.22,226.24
+FD10025,2025-11-09,Bengaluru,North,Royal Kitchen,Pizza,Meals,2,202.12,76.78,27.4,Wallet,Returned,45,3.5,404.24,110.76,370.26,255.19,115.07
+FD10356,2025-11-10,Hyderabad,West,A2B,South Indian,Noodles,3,471.47,16.07,19.2,Cash on Delivery,Delivered,40,4.4,1414.41,271.57,1158.91,765.97,392.94
+FD10386,2025-11-10,Bengaluru,East,SS Hyderabad Biryani,South Indian,Dosa,1,184.45,48.05,9.4,Cash on Delivery,Delivered,36,5.0,184.45,17.34,215.16,129.76,85.4
+FD10404,2025-11-11,Chennai,North,Spice Hub,Pizza,Pizza,2,122.43,69.89,23.6,Credit Card,Delivered,32,4.3,244.86,57.79,256.96,181.91,75.05
+FD10522,2025-11-11,Kochi,East,Domino's,Chinese,Salad,1,297.07,52.04,17.4,Debit Card,Delivered,60,3.9,297.07,51.69,297.42,227.58,69.84
+FD10226,2025-11-11,Bengaluru,East,Spice Hub,Biryani,Parotta,2,135.26,50.63,14.8,Credit Card,Delivered,21,4.0,270.52,40.04,281.11,155.29,125.82
+FD10188,2025-11-11,Kochi,West,Royal Kitchen,Pizza,Biryani,2,156.77,74.44,9.5,UPI,Out for Delivery,66,4.4,313.54,29.79,358.19,200.16,158.03
+FD10088,2025-11-12,Madurai,East,Burger House,Chinese,Meals,1,527.97,78.88,21.3,Debit Card,Delivered,74,5.0,527.97,112.46,494.39,352.15,142.24
+FD10157,2025-11-12,Bengaluru,North,Domino's,South Indian,Noodles,2,526.74,52.66,28.0,Credit Card,Delivered,32,4.5,1053.48,294.97,811.17,575.78,235.39
+FD10051,2025-11-14,Kochi,East,Food Street,Desserts,Burger,3,122.8,20.64,15.5,Wallet,Delivered,27,4.2,368.4,57.1,331.94,210.17,121.77
+FD10222,2025-11-14,Bengaluru,North,Pizza Corner,North Indian,Pizza,3,376.26,56.29,26.2,UPI,Delivered,71,4.2,1128.78,295.74,889.33,504.09,385.24
+FD10491,2025-11-16,Madurai,West,A2B,Fast Food,Burger,1,269.71,78.92,21.4,Wallet,Delivered,25,3.9,269.71,57.72,290.91,173.95,116.96
+FD10423,2025-11-17,Chennai,North,Pizza Corner,Healthy,Pizza,3,498.2,57.99,20.4,Debit Card,Returned,44,3.0,1494.6,304.9,1247.69,868.27,379.42
+FD10471,2025-11-17,Coimbatore,West,Burger House,Pizza,Burger,1,292.43,59.87,11.1,Credit Card,Delivered,20,3.5,292.43,32.46,319.84,242.1,77.74
+FD10764,2025-11-17,Madurai,North,Spice Hub,Biryani,Noodles,3,256.94,22.38,5.5,Cash on Delivery,Delivered,46,4.2,770.82,42.4,750.8,491.32,259.48
+FD10115,2025-11-17,Bengaluru,South,Food Street,Pizza,Pizza,2,598.98,30.42,17.2,Cash on Delivery,Out for Delivery,66,4.2,1197.96,206.05,1022.33,747.2,275.13
+FD10478,2025-11-18,Bengaluru,North,Food Street,Desserts,Parotta,3,244.52,36.27,16.5,Debit Card,Out for Delivery,19,5.0,733.56,121.04,648.79,375.78,273.01
+FD10724,2025-11-18,Chennai,North,Food Street,South Indian,Cake,4,354.89,33.4,26.6,Credit Card,Delivered,42,5.0,1419.56,377.6,1075.36,594.96,480.4
+FD10441,2025-11-19,Hyderabad,East,SS Hyderabad Biryani,Chinese,Pizza,2,557.1,32.76,26.5,Debit Card,Delivered,35,3.6,1114.2,295.26,851.7,583.38,268.32
+FD10308,2025-11-19,Chennai,East,SS Hyderabad Biryani,Fast Food,Pizza,2,118.06,40.32,6.2,Debit Card,Delivered,38,5.0,236.12,14.64,261.8,163.06,98.74
+FD10778,2025-11-19,Madurai,East,Annapoorna,North Indian,Noodles,4,487.56,70.73,1.3,Debit Card,Out for Delivery,29,3.4,1950.24,25.35,1995.62,1536.6,459.02
+FD10505,2025-11-19,Coimbatore,East,Pizza Corner,Biryani,Cake,4,188.15,36.3,6.4,Debit Card,Delivered,48,3.6,752.6,48.17,740.73,563.37,177.36
+FD10360,2025-11-19,Kochi,East,Food Street,Desserts,Salad,3,145.12,49.44,23.9,Cash on Delivery,Out for Delivery,24,4.5,435.36,104.05,380.75,290.79,89.96
+FD10082,2025-11-20,Madurai,North,Royal Kitchen,Fast Food,Cake,3,617.98,57.93,10.3,Cash on Delivery,Delivered,20,4.0,1853.94,190.96,1720.91,1115.28,605.63
+FD10640,2025-11-20,Coimbatore,South,Royal Kitchen,Desserts,Fried Rice,4,297.46,45.66,10.3,Credit Card,Returned,22,4.6,1189.84,122.55,1112.95,865.15,247.8
+FD10784,2025-11-21,Coimbatore,North,Food Street,Pizza,Meals,3,223.17,43.18,1.0,UPI,Out for Delivery,41,2.8,669.51,6.7,705.99,508.82,197.17
+FD10398,2025-11-21,Madurai,East,Pizza Corner,North Indian,Parotta,1,583.4,25.13,28.3,Wallet,Delivered,65,4.0,583.4,165.1,443.43,323.21,120.22
+FD10024,2025-11-22,Chennai,South,Royal Kitchen,Healthy,Salad,4,522.63,31.65,25.4,Cash on Delivery,Out for Delivery,19,2.9,2090.52,530.99,1591.18,926.35,664.83
+FD10276,2025-11-23,Kochi,West,Burger House,Healthy,Meals,2,522.68,28.39,7.0,Cash on Delivery,Out for Delivery,31,4.5,1045.36,73.18,1000.57,585.0,415.57
+FD10642,2025-11-24,Hyderabad,North,A2B,North Indian,Burger,2,564.27,57.87,10.6,Cash on Delivery,Cancelled,59,4.7,1128.54,119.63,1066.78,784.94,281.84
+FD10781,2025-11-26,Coimbatore,West,Healthy Bowl,Fast Food,Dosa,4,392.88,75.45,25.8,UPI,Delivered,19,4.8,1571.52,405.45,1241.52,862.15,379.37
+FD10068,2025-11-26,Madurai,South,A2B,North Indian,Cake,1,309.83,67.93,9.5,Cash on Delivery,Delivered,43,4.9,309.83,29.43,348.33,192.99,155.34
+FD10721,2025-11-26,Coimbatore,West,Healthy Bowl,Biryani,Dosa,3,453.84,50.78,17.2,Wallet,Delivered,23,4.5,1361.52,234.18,1178.12,869.53,308.59
+FD10366,2025-11-26,Bengaluru,West,Domino's,South Indian,Cake,2,230.42,34.63,5.2,Cash on Delivery,Delivered,36,4.1,460.84,23.96,471.51,360.1,111.41
+FD10629,2025-11-26,Madurai,East,Spice Hub,Desserts,Biryani,1,88.28,53.34,11.0,Wallet,Delivered,60,4.3,88.28,9.71,131.91,84.73,47.18
+FD10408,2025-11-27,Madurai,East,Pizza Corner,Desserts,Dosa,2,283.89,47.78,21.8,UPI,Out for Delivery,29,4.8,567.78,123.78,491.78,286.39,205.39
+FD10675,2025-11-27,Hyderabad,South,Pizza Corner,Chinese,Meals,4,500.32,64.63,9.1,Cash on Delivery,Returned,31,3.8,2001.28,182.12,1883.79,1385.93,497.86
+FD10397,2025-11-27,Chennai,South,Annapoorna,North Indian,Parotta,4,163.09,50.08,12.8,Credit Card,Delivered,72,5.0,652.36,83.5,618.94,349.72,269.22
+FD10579,2025-11-28,Hyderabad,North,Healthy Bowl,Desserts,Parotta,1,326.12,63.06,16.0,Debit Card,Delivered,36,3.8,326.12,52.18,337.0,200.7,136.3
+FD10239,2025-11-28,Hyderabad,West,Spice Hub,Desserts,Biryani,2,412.11,40.27,24.9,Wallet,Delivered,74,4.5,824.22,205.23,659.26,439.06,220.2
+FD10558,2025-11-28,Madurai,South,Spice Hub,Fast Food,Dosa,1,170.26,64.44,22.1,Debit Card,Delivered,20,4.9,170.26,37.63,197.07,131.47,65.6
+FD10139,2025-11-28,Chennai,North,Spice Hub,Pizza,Fried Rice,2,102.66,69.55,24.4,Credit Card,Delivered,42,3.8,205.32,50.1,224.77,162.78,61.99
+FD10636,2025-11-28,Chennai,West,Pizza Corner,North Indian,Pizza,3,642.26,19.87,9.5,Cash on Delivery,Delivered,66,3.5,1926.78,183.04,1763.61,1163.62,599.99
+FD10477,2025-11-29,Hyderabad,South,Pizza Corner,Pizza,Salad,2,257.18,22.37,20.2,Wallet,Delivered,58,4.2,514.36,103.9,432.83,299.44,133.39
+FD10130,2025-11-29,Kochi,South,A2B,Pizza,Noodles,1,417.71,48.54,10.9,Wallet,Delivered,41,3.1,417.71,45.53,420.72,295.26,125.46
+FD10081,2025-11-29,Madurai,South,Spice Hub,Biryani,Dosa,4,226.66,50.39,15.0,Debit Card,Returned,72,4.5,906.64,136.0,821.03,495.43,325.6
+FD10679,2025-11-29,Hyderabad,East,Domino's,South Indian,Parotta,1,529.46,62.76,1.6,Debit Card,Out for Delivery,26,4.0,529.46,8.47,583.75,381.62,202.13
+FD10655,2025-11-30,Madurai,East,A2B,Healthy,Dosa,3,289.33,27.38,2.0,UPI,Out for Delivery,72,3.6,867.99,17.36,878.01,631.07,246.94
+FD10494,2025-11-30,Chennai,North,Healthy Bowl,Chinese,Dosa,4,372.02,32.0,15.6,Wallet,Delivered,39,3.9,1488.08,232.14,1287.94,946.9,341.04
+FD10647,2025-11-30,Coimbatore,North,Domino's,Fast Food,Meals,4,136.38,76.84,2.0,Wallet,Delivered,25,3.9,545.52,10.91,611.45,387.98,223.47
+FD10229,2025-12-01,Hyderabad,East,Royal Kitchen,Desserts,Parotta,4,173.53,46.09,12.1,Credit Card,Delivered,54,4.0,694.12,83.99,656.22,421.46,234.76
+FD10719,2025-12-01,Hyderabad,West,Food Street,South Indian,Meals,2,590.81,67.69,27.2,Debit Card,Delivered,18,5.0,1181.62,321.4,927.91,631.31,296.6
+FD10128,2025-12-02,Coimbatore,West,Burger House,Healthy,Noodles,1,166.49,47.23,26.8,Debit Card,Delivered,48,4.3,166.49,44.62,169.1,107.26,61.84
+FD10099,2025-12-02,Bengaluru,West,Pizza Corner,Pizza,Noodles,1,170.66,63.27,4.0,Credit Card,Out for Delivery,30,4.8,170.66,6.83,227.1,135.05,92.05
+FD10376,2025-12-02,Hyderabad,North,Burger House,Biryani,Cake,3,462.48,41.6,9.6,Cash on Delivery,Out for Delivery,34,4.1,1387.44,133.19,1295.85,762.91,532.94
+FD10324,2025-12-04,Madurai,East,Annapoorna,South Indian,Dosa,3,595.45,30.15,1.1,Wallet,Delivered,39,3.6,1786.35,19.65,1796.85,1194.78,602.07
+FD10340,2025-12-04,Chennai,East,Healthy Bowl,Desserts,Dosa,1,412.44,17.91,19.6,Wallet,Returned,34,4.3,412.44,80.84,349.51,218.68,130.83
+FD10606,2025-12-04,Kochi,South,Food Street,Pizza,Dosa,3,230.38,68.26,15.1,Debit Card,Delivered,37,4.7,691.14,104.36,655.04,404.38,250.66
+FD10158,2025-12-05,Chennai,East,Spice Hub,Biryani,Burger,1,389.96,40.2,7.1,Wallet,Delivered,26,3.7,389.96,27.69,402.47,255.96,146.51
+FD10186,2025-12-05,Hyderabad,East,Royal Kitchen,Biryani,Meals,3,282.64,59.07,16.3,Wallet,Cancelled,38,3.4,847.92,138.21,768.78,461.83,306.95
+FD10040,2025-12-06,Coimbatore,East,SS Hyderabad Biryani,Fast Food,Meals,4,85.36,25.84,11.9,Debit Card,Delivered,64,4.4,341.44,40.63,326.65,220.51,106.14
+FD10395,2025-12-06,Kochi,South,Royal Kitchen,Desserts,Noodles,1,122.38,16.46,28.8,Credit Card,Delivered,36,3.2,122.38,35.25,103.59,66.59,37.0
+FD10349,2025-12-07,Madurai,West,Domino's,Pizza,Dosa,4,643.09,31.13,5.9,Credit Card,Delivered,71,4.5,2572.36,151.77,2451.72,1542.96,908.76
+FD10737,2025-12-07,Chennai,West,A2B,Fast Food,Dosa,3,290.65,28.35,2.2,Debit Card,Delivered,33,3.3,871.95,19.18,881.12,549.34,331.78
+FD10512,2025-12-07,Coimbatore,South,Burger House,North Indian,Parotta,1,354.71,65.25,10.8,Cash on Delivery,Cancelled,39,4.6,354.71,38.31,381.65,259.89,121.76
+FD10434,2025-12-08,Chennai,South,Annapoorna,Chinese,Cake,1,511.36,34.42,26.6,Debit Card,Delivered,24,3.6,511.36,136.02,409.76,314.94,94.82
+FD10627,2025-12-08,Kochi,West,SS Hyderabad Biryani,Biryani,Burger,2,363.02,18.02,26.7,Wallet,Delivered,54,4.6,726.04,193.85,550.21,352.06,198.15
+FD10178,2025-12-08,Bengaluru,South,Annapoorna,Pizza,Fried Rice,2,633.57,15.75,26.7,Cash on Delivery,Delivered,59,4.4,1267.14,338.33,944.56,707.32,237.24
+FD10321,2025-12-09,Madurai,North,Annapoorna,Pizza,Cake,2,178.31,74.59,9.0,Wallet,Out for Delivery,26,3.7,356.62,32.1,399.11,225.24,173.87
+FD10549,2025-12-09,Chennai,West,Annapoorna,Pizza,Dosa,4,305.64,39.88,24.4,Cash on Delivery,Delivered,64,3.7,1222.56,298.3,964.14,704.14,260.0
+FD10373,2025-12-09,Kochi,West,Royal Kitchen,South Indian,Meals,4,447.16,32.84,2.2,Wallet,Delivered,69,4.0,1788.64,39.35,1782.13,997.22,784.91
+FD10526,2025-12-09,Coimbatore,East,A2B,Pizza,Fried Rice,2,644.33,45.33,13.0,Credit Card,Delivered,31,3.5,1288.66,167.53,1166.46,888.09,278.37
+FD10296,2025-12-09,Bengaluru,South,Healthy Bowl,Biryani,Noodles,1,617.72,58.39,24.5,Debit Card,Delivered,42,4.0,617.72,151.34,524.77,308.13,216.64
+FD10630,2025-12-09,Chennai,North,Spice Hub,Desserts,Salad,2,239.38,38.87,0.8,Wallet,Delivered,24,4.0,478.76,3.83,513.8,282.84,230.96
+FD10529,2025-12-10,Hyderabad,West,SS Hyderabad Biryani,North Indian,Cake,4,349.98,42.26,6.6,Debit Card,Delivered,52,4.5,1399.92,92.39,1349.79,855.28,494.51
+FD10037,2025-12-10,Hyderabad,East,SS Hyderabad Biryani,South Indian,Parotta,3,637.31,75.05,10.3,Cash on Delivery,Delivered,56,3.5,1911.93,196.93,1790.05,996.14,793.91
+FD10544,2025-12-10,Coimbatore,South,A2B,Desserts,Meals,2,272.58,48.03,23.1,Wallet,Returned,47,4.4,545.16,125.93,467.26,363.73,103.53
+FD10387,2025-12-10,Chennai,East,Pizza Corner,North Indian,Burger,3,331.53,48.06,14.7,Credit Card,Delivered,34,4.6,994.59,146.2,896.45,694.87,201.58
+FD10632,2025-12-10,Bengaluru,North,Burger House,Fast Food,Fried Rice,4,395.85,77.41,9.2,Credit Card,Delivered,69,4.0,1583.4,145.67,1515.14,1052.05,463.09
+FD10436,2025-12-11,Madurai,West,Domino's,North Indian,Dosa,1,147.28,25.19,18.6,Wallet,Cancelled,33,3.9,147.28,27.39,145.08,96.71,48.37
+FD10011,2025-12-12,Chennai,South,Royal Kitchen,Chinese,Cake,1,90.2,46.65,25.7,Cash on Delivery,Delivered,42,4.1,90.2,23.18,113.67,86.21,27.46
+FD10475,2025-12-13,Bengaluru,East,Domino's,South Indian,Burger,3,606.13,44.0,14.8,Credit Card,Out for Delivery,61,3.9,1818.39,269.12,1593.27,1011.35,581.92
+FD10240,2025-12-14,Madurai,West,Royal Kitchen,South Indian,Cake,4,538.23,77.41,17.7,UPI,Cancelled,18,5.0,2152.92,381.07,1849.26,1399.38,449.88
+FD10345,2025-12-14,Chennai,South,Burger House,Pizza,Meals,3,632.89,22.29,17.0,UPI,Cancelled,58,4.1,1898.67,322.77,1598.19,918.57,679.62
+FD10515,2025-12-15,Bengaluru,West,Spice Hub,Healthy,Noodles,1,265.27,25.74,10.6,Debit Card,Out for Delivery,22,3.9,265.27,28.12,262.89,159.21,103.68
+FD10007,2025-12-15,Hyderabad,South,Annapoorna,Chinese,Parotta,1,509.65,41.92,7.9,Credit Card,Delivered,44,3.2,509.65,40.26,511.31,319.67,191.64
+FD10198,2025-12-15,Madurai,East,Spice Hub,Chinese,Burger,3,428.91,38.04,21.6,Debit Card,Delivered,60,3.2,1286.73,277.93,1046.84,814.45,232.39
+FD10078,2025-12-16,Hyderabad,North,Annapoorna,Biryani,Meals,4,143.89,31.52,21.2,Debit Card,Delivered,39,3.6,575.56,122.02,485.06,279.04,206.02
+FD10410,2025-12-16,Madurai,East,Spice Hub,Chinese,Dosa,1,125.7,68.63,19.2,Cash on Delivery,Out for Delivery,34,3.4,125.7,24.13,170.2,94.51,75.69
+FD10124,2025-12-16,Coimbatore,West,Royal Kitchen,Fast Food,Pizza,1,512.12,42.07,30.0,Cash on Delivery,Out for Delivery,68,4.5,512.12,153.64,400.55,298.46,102.09
+FD10043,2025-12-16,Hyderabad,West,A2B,Pizza,Cake,4,312.59,31.17,25.7,Credit Card,Cancelled,40,3.9,1250.36,321.34,960.19,700.95,259.24
+FD10247,2025-12-17,Kochi,West,Healthy Bowl,South Indian,Pizza,2,639.09,18.68,23.9,Credit Card,Out for Delivery,52,4.3,1278.18,305.49,991.37,759.96,231.41
+FD10730,2025-12-18,Madurai,West,Spice Hub,Biryani,Meals,3,300.33,73.29,26.4,Credit Card,Delivered,39,4.8,900.99,237.86,736.42,418.16,318.26
+FD10744,2025-12-19,Kochi,South,Burger House,Pizza,Noodles,3,472.21,42.45,14.7,Cash on Delivery,Delivered,57,4.3,1416.63,208.24,1250.84,914.85,335.99
+FD10690,2025-12-19,Madurai,South,A2B,South Indian,Cake,4,199.04,22.19,20.2,Credit Card,Delivered,74,4.0,796.16,160.82,657.53,375.48,282.05
+FD10171,2025-12-19,Hyderabad,South,Royal Kitchen,Pizza,Meals,2,620.69,39.03,1.3,Cash on Delivery,Delivered,55,2.9,1241.38,16.14,1264.27,715.15,549.12
+FD10582,2025-12-19,Kochi,East,Royal Kitchen,Pizza,Parotta,3,115.25,29.71,8.3,Cash on Delivery,Delivered,62,4.7,345.75,28.7,346.76,208.33,138.43
+FD10794,2025-12-19,Madurai,West,A2B,Healthy,Salad,2,287.16,74.74,13.1,Credit Card,Delivered,47,4.3,574.32,75.24,573.82,358.75,215.07
+FD10800,2025-12-20,Bengaluru,West,Royal Kitchen,North Indian,Meals,2,250.22,44.67,2.9,Credit Card,Delivered,33,4.0,500.44,14.51,530.6,358.86,171.74
+FD10252,2025-12-20,Chennai,South,Domino's,Healthy,Pizza,3,99.8,64.5,24.7,Wallet,Delivered,36,4.5,299.4,73.95,289.95,221.9,68.05
+FD10518,2025-12-20,Coimbatore,North,Royal Kitchen,South Indian,Fried Rice,1,611.78,78.78,0.2,Wallet,Delivered,35,3.8,611.78,1.22,689.34,472.9,216.44
+FD10600,2025-12-20,Chennai,West,SS Hyderabad Biryani,Healthy,Meals,4,170.15,43.49,18.0,Debit Card,Delivered,45,4.0,680.6,122.51,601.58,443.65,157.93
+FD10256,2025-12-20,Coimbatore,East,Spice Hub,South Indian,Pizza,1,429.69,71.74,9.8,UPI,Delivered,23,4.1,429.69,42.11,459.32,352.71,106.61
+FD10371,2025-12-21,Hyderabad,East,Food Street,South Indian,Fried Rice,4,423.96,55.57,5.0,Wallet,Out for Delivery,51,3.7,1695.84,84.79,1666.62,975.52,691.1
+FD10303,2025-12-22,Kochi,West,Burger House,Pizza,Biryani,1,221.7,24.03,23.2,Credit Card,Delivered,34,4.6,221.7,51.43,194.3,107.49,86.81
+FD10660,2025-12-22,Coimbatore,North,Royal Kitchen,Chinese,Cake,3,566.65,73.75,25.6,UPI,Out for Delivery,71,4.4,1699.95,435.19,1338.51,870.36,468.15
+FD10057,2025-12-23,Coimbatore,South,Healthy Bowl,Biryani,Pizza,3,608.46,44.33,9.1,Debit Card,Out for Delivery,66,3.5,1825.38,166.11,1703.6,967.79,735.81
+FD10622,2025-12-23,Hyderabad,East,Domino's,South Indian,Meals,3,214.27,30.27,16.5,Cash on Delivery,Delivered,31,3.8,642.81,106.06,567.02,346.73,220.29
+FD10545,2025-12-25,Chennai,West,Spice Hub,Pizza,Salad,3,366.39,30.16,15.1,Credit Card,Out for Delivery,23,3.9,1099.17,165.97,963.36,618.94,344.42
+FD10651,2025-12-26,Kochi,North,Pizza Corner,Pizza,Fried Rice,4,372.08,46.48,26.4,Cash on Delivery,Out for Delivery,53,2.7,1488.32,392.92,1141.88,862.56,279.32
+FD10272,2025-12-26,Hyderabad,North,Burger House,Pizza,Fried Rice,1,451.92,51.18,20.7,Cash on Delivery,Delivered,68,5.0,451.92,93.55,409.55,308.59,100.96
+FD10443,2025-12-26,Hyderabad,North,SS Hyderabad Biryani,Desserts,Cake,4,469.9,49.63,4.1,Wallet,Delivered,74,4.8,1879.6,77.06,1852.17,1357.25,494.92
+FD10497,2025-12-26,Madurai,South,Annapoorna,Fast Food,Dosa,1,352.58,43.68,16.5,Debit Card,Delivered,38,2.8,352.58,58.18,338.08,194.74,143.34
+FD10742,2025-12-26,Chennai,South,Food Street,Fast Food,Parotta,1,310.04,46.46,23.9,UPI,Delivered,71,4.0,310.04,74.1,282.4,165.78,116.62
+FD10169,2025-12-28,Coimbatore,South,Pizza Corner,Pizza,Biryani,3,609.21,35.16,12.5,UPI,Cancelled,65,4.5,1827.63,228.45,1634.34,947.21,687.13
+FD10367,2025-12-28,Chennai,West,Burger House,Healthy,Noodles,3,172.49,35.3,4.5,UPI,Out for Delivery,23,4.4,517.47,23.29,529.48,327.68,201.8
+FD10444,2025-12-28,Coimbatore,South,Spice Hub,Healthy,Cake,3,395.86,15.74,13.5,Wallet,Delivered,56,4.1,1187.58,160.32,1043.0,638.19,404.81
+FD10711,2025-12-28,Madurai,West,A2B,Biryani,Dosa,3,107.17,63.9,11.8,Debit Card,Out for Delivery,51,5.0,321.51,37.94,347.47,227.3,120.17
+FD10214,2025-12-29,Kochi,South,A2B,North Indian,Burger,2,268.29,62.87,0.1,Credit Card,Delivered,66,5.0,536.58,0.54,598.91,357.81,241.1
+FD10760,2025-12-29,Bengaluru,North,Healthy Bowl,Biryani,Biryani,2,98.88,23.6,2.0,Cash on Delivery,Returned,65,4.0,197.76,3.96,217.4,161.61,55.79
+FD10219,2025-12-30,Coimbatore,West,Healthy Bowl,Pizza,Pizza,3,254.18,65.95,21.7,Credit Card,Delivered,34,3.0,762.54,165.47,663.02,365.66,297.36
+FD10144,2025-12-30,Bengaluru,East,Annapoorna,Fast Food,Burger,2,362.55,17.01,15.6,Cash on Delivery,Delivered,23,4.4,725.1,113.12,628.99,447.56,181.43
+FD10552,2025-12-30,Coimbatore,South,Food Street,Biryani,Pizza,4,576.53,70.04,17.3,UPI,Cancelled,30,4.7,2306.12,398.96,1977.2,1432.34,544.86
+FD10568,2025-12-31,Madurai,North,Food Street,Fast Food,Fried Rice,3,609.45,15.19,26.2,Debit Card,Cancelled,46,4.5,1828.35,479.03,1364.51,1035.98,328.53
+FD10249,2025-12-31,Coimbatore,South,Annapoorna,Chinese,Fried Rice,2,197.19,33.13,11.0,Wallet,Delivered,67,4.1,394.38,43.38,384.13,272.07,112.06
+FD10384,2025-12-31,Chennai,South,Royal Kitchen,Biryani,Noodles,3,598.95,20.5,26.1,Credit Card,Out for Delivery,66,3.1,1796.85,468.98,1348.37,872.87,475.5
